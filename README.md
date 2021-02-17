@@ -4,8 +4,6 @@ I'm a Ph.D. student at the [University of St.Gallen](https://www.unisg.ch/). My 
 
 My Ph.D. supervisor is [Roland Hodler](https://sites.google.com/view/rolandhodler).
 
-You can download my CV [here](https://www.icloud.com/iclouddrive/0yUWEQGNuwofomXaJVlKgD_nA#cv).
-
 ### Current Research
 
 - [Media Slant is Contagious](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3712218), with [Sergio Galletta](http://sergio-galletta.com/) and [Elliott Ash](https://elliottash.com/)
