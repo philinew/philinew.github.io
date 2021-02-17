@@ -12,7 +12,7 @@ My Ph.D. supervisor is [Roland Hodler](https://sites.google.com/view/rolandhodle
 
 - Mining Narratives from Large Text Corpora, with [Elliott Ash](https://elliottash.com/) and [Germain Gauthier](https://pinchofdata.github.io/germaingauthier/) (draft out soon)
 
-- Ownership, Reach, and Market Concentration, with [Ulrich Matter](https://umatter.github.io/) (draft out soon)
+- Online Media: Ownership, Reach, and Market Concentration, with [Ulrich Matter](https://umatter.github.io/) (draft out soon)
 
 - Web Mining- and Text-Based Approaches to Media Freedom
 
