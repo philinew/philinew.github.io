@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+### About me
 
-You can use the [editor on GitHub](https://github.com/philinew/philinew.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I'm a Ph.D. student at the [University of St.Gallen](https://www.unisg.ch/). My research covers topics in political, media, and development economics. I am particularly interested in bringing natural language processing techniques to applied economics research.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My Ph.D. supervisor is [Roland Hodler](https://sites.google.com/view/rolandhodler).
 
-### Markdown
+### Current Research
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- [Media Slant is Contagious](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3712218), with [Sergio Galletta](http://sergio-galletta.com/) and [Elliott Ash](https://elliottash.com/)
 
-```markdown
-Syntax highlighted code block
+- [Born in the Right Place? Health Ministers, Foreign Aid and Infant Mortality](https://ideas.repec.org/p/usg/econwp/201911.html), with Noémie Zurlinden
 
-# Header 1
-## Header 2
-### Header 3
+- Mining Narratives from Large Text Corpora, with [Elliott Ash](https://elliottash.com/) and [Germain Gauthier](https://pinchofdata.github.io/germaingauthier/) (draft out soon)
 
-- Bulleted
-- List
+- Ownership, Reach, and Market Concentration, with [Ulrich Matter](https://umatter.github.io/) (draft out soon)
 
-1. Numbered
-2. List
+- Web Mining- and Text-Based Approaches to Media Freedom
 
-**Bold** and _Italic_ and `Code` text
+### Teaching
 
-[Link](url) and ![Image](src)
-```
+- **Undergraduate level (TA)**
+  - Public Sector Economics (2021)
+  - Data Handling: Import, Cleaning and Visualisation (2019-2021)
+  - Public Finance (2020)
+  - Public Economics (2017-2019)
+  - Introduction to Microeconomics (2017-2018)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/philinew/philinew.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- **Graduate level (TA)**
+  - Political Economics (2020)
