@@ -2,3 +2,4 @@ theme: jekyll-theme-minimal
 title: Philine Widmer
 description: Welcome to my homepage.
 logo: /assets/img/profile.jpg
+is\_project\_page: false
