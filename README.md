@@ -19,10 +19,8 @@ My Ph.D. supervisor is [Roland Hodler](https://sites.google.com/view/rolandhodle
 ### Teaching
 
 - **Undergraduate level (TA)**
-  - Public Sector Economics (2021)
+  - Public Economics (2017-2021)
   - Data Handling: Import, Cleaning and Visualisation (2019-2021)
-  - Public Finance (2020)
-  - Public Economics (2017-2019)
   - Introduction to Microeconomics (2017-2018)
 
 - **Graduate level (TA)**
