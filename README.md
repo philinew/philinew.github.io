@@ -8,7 +8,7 @@ My Ph.D. supervisor is [Roland Hodler](https://sites.google.com/view/rolandhodle
 
 - [Media Slant is Contagious](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3712218), with [Sergio Galletta](http://sergio-galletta.com/) and [Elliott Ash](https://elliottash.com/)
 
-- [Born in the Right Place? Health Ministers, Foreign Aid and Infant Mortality](https://ideas.repec.org/p/usg/econwp/201911.html), with Noémie Zurlinden
+- [Born in the Right Place? Ministers' Favoritism and Infant Mortality](https://www.dropbox.com/s/n0897djcnbxdw2h/widmer_zurlinden_2021.pdf?dl=0), with Noémie Zurlinden
 
 - Mining Narratives from Large Text Corpora, with [Elliott Ash](https://elliottash.com/) and [Germain Gauthier](https://pinchofdata.github.io/germaingauthier/) (draft out soon)
 
