@@ -14,8 +14,6 @@ My Ph.D. supervisor is [Roland Hodler](https://sites.google.com/view/rolandhodle
 
 - Online Media: Ownership, Reach, and Market Concentration, with [Ulrich Matter](https://umatter.github.io/) (draft out soon)
 
-- Web Mining- and Text-Based Approaches to Media Freedom
-
 ### Teaching
 
 - **Undergraduate level (TA)**
