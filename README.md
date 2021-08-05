@@ -10,7 +10,8 @@ My Ph.D. supervisor is [Roland Hodler](https://sites.google.com/view/rolandhodle
 
 - [Born in the Right Place? Ministers' Favoritism and Infant Mortality](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3818193), with Noémie Zurlinden
 
-- Mining Narratives from Large Text Corpora, with [Elliott Ash](https://elliottash.com/) and [Germain Gauthier](https://pinchofdata.github.io/germaingauthier/) (check out our [slides](https://www.dropbox.com/s/gshhdoddlsu1zxi/narratives_public_slides.pdf?dl=0))
+- [Mining Narratives from Large Text Corpora](http://arxiv.org/abs/2108.01720), with [Elliott Ash](https://elliottash.com/) and [Germain Gauthier](https://pinchofdata.github.io/germaingauthier/)
+The Python package ```relatio``` developed in this project extracts narrative statements from text. It is available on [GitHub](https://github.com/relatio-nlp/relatio).
 
 - Online Media: Ownership, Reach, and Market Concentration, with [Ulrich Matter](https://umatter.github.io/) (draft out soon)
 
