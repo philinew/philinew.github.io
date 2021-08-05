@@ -23,3 +23,4 @@ My Ph.D. supervisor is [Roland Hodler](https://sites.google.com/view/rolandhodle
 
 - **Graduate level (TA)**
   - Political Economics (2020)
+  - [Summer Institute in Computational Social Science](https://github.com/computational-social-science-zurich/sicss-zurich) (2021)
