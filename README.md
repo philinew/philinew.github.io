@@ -8,7 +8,7 @@ My Ph.D. supervisor is [Roland Hodler](https://sites.google.com/view/rolandhodle
 
 - [Media Slant is Contagious](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3712218), with [Sergio Galletta](http://sergio-galletta.com/) and [Elliott Ash](https://elliottash.com/)
 
-- [Ministers Engage in Favoritism Too](https://www.dropbox.com/s/fagrbgrdah4su5x/widmer_zurlinden_minister_favoritism.pdf?dl=0), with Noémie Zurlinden
+- [Ministers Engage in Favoritism Too](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3818193), with Noémie Zurlinden
 
 - [Text Semantics Capture Political and Economic Narratives](http://arxiv.org/abs/2108.01720), with [Elliott Ash](https://elliottash.com/) and [Germain Gauthier](https://pinchofdata.github.io/germaingauthier/) (our [Python package](https://github.com/relatio-nlp/relatio) ```relatio``` extracts narrative statements from text)
 
