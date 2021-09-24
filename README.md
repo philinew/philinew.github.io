@@ -22,5 +22,6 @@ My Ph.D. supervisor is [Roland Hodler](https://sites.google.com/view/rolandhodle
   - Introduction to Microeconomics (2017-2018)
 
 - **Graduate level (TA)**
-  - Political Economics (2020)
+  - Failed States (2021)
   - [Summer Institute in Computational Social Science](https://github.com/computational-social-science-zurich/sicss-zurich), see also [here](https://sicss.io/) (2021)
+  - Political Economics (2020)
