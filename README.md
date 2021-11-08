@@ -12,7 +12,7 @@ My Ph.D. supervisor is [Roland Hodler](https://sites.google.com/view/rolandhodle
 
 - [Text Semantics Capture Political and Economic Narratives](http://arxiv.org/abs/2108.01720), with [Elliott Ash](https://elliottash.com/) and [Germain Gauthier](https://pinchofdata.github.io/germaingauthier/) (our [Python package](https://github.com/relatio-nlp/relatio) ```relatio``` extracts narrative statements from text)
 
-- Online Media: Ownership, Reach, and Market Concentration, with [Ulrich Matter](https://umatter.github.io/) (draft out soon)
+- Who Owns the Online Media?, with [Ulrich Matter](https://umatter.github.io/)
 
 ### Teaching
 
