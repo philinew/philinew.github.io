@@ -29,5 +29,5 @@ My Ph.D. supervisor is [Roland Hodler](https://sites.google.com/view/rolandhodle
 
 #### Graduate level
 - Failed States (2021-2022)
-- [Summer Institute in Computational Social Science](https://github.com/computational-social-science-zurich/sicss-zurich), see also [here](https://sicss.io/) (2021)
+- [Summer Institute in Computational Social Science](https://github.com/computational-social-science-zurich/sicss-zurich), ssee our [GitHub](https://sicss.io/) (2021)
 - Political Economics (2020)
