@@ -22,12 +22,12 @@ My Ph.D. supervisor is [Roland Hodler](https://sites.google.com/view/rolandhodle
 
 ### Teaching
 
-- **Undergraduate level (TA)**
-  - Public Economics (2017-2021)
-  - Data Handling: Import, Cleaning and Visualisation (2019-2021)
-  - Introduction to Microeconomics (2017-2018)
+#### Undergraduate level
+- Public Economics (2017-2022)
+- Data Handling: Import, Cleaning and Visualisation (2019-2021)
+- Introduction to Microeconomics (2017-2018)
 
-- **Graduate level (TA)**
-  - Failed States (2021)
-  - [Summer Institute in Computational Social Science](https://github.com/computational-social-science-zurich/sicss-zurich), see also [here](https://sicss.io/) (2021)
-  - Political Economics (2020)
+#### Graduate level
+- Failed States (2021-2022)
+- [Summer Institute in Computational Social Science](https://github.com/computational-social-science-zurich/sicss-zurich), see also [here](https://sicss.io/) (2021)
+- Political Economics (2020)
