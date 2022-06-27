@@ -2,7 +2,7 @@
 
 I'm a Ph.D. student at the [University of St.Gallen](https://www.unisg.ch/). My research covers topics in political, media, and development economics. I am particularly interested in bringing natural language processing techniques to applied economics research.
 
-My Ph.D. supervisor is [Roland Hodler](https://sites.google.com/view/rolandhodler). I am currently visiting the Paris School of Economics, hosted by [Ekaterina Zhuravskaya](http://www.parisschoolofeconomics.com/zhuravskaya-ekaterina/). I visited ETH Zurich in 2019, hosted by [Elliott Ash](https://elliottash.com/).
+My Ph.D. supervisor is [Roland Hodler](https://sites.google.com/view/rolandhodler). I visited the Paris School of Economics for the academic year 2021/2022, hosted by [Ekaterina Zhuravskaya](http://www.parisschoolofeconomics.com/zhuravskaya-ekaterina/). I visited ETH Zurich in 2019, hosted by [Elliott Ash](https://elliottash.com/).
 
 ### Research
 
