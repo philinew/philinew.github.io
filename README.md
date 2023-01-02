@@ -1,7 +1,7 @@
 ### About me
 
 I'm a Ph.D. student at the [University of St.Gallen](https://www.unisg.ch/). I will obtain my degree in Septeber 2023. My research covers topics in political, media, and development economics. I am particularly interested in bringing natural language processing techniques to applied economics research.
-In January 2023, I joined ETH Zurich as a Post-Doctoral researcher ([Elliott Ash](https://elliottash.com/)'s lab).
+In January 2023, I joined ETH Zurich as a Post-Doctoral researcher, working at the Center for Law & Economics with [Elliott Ash](https://elliottash.com/).
 
 My Ph.D. supervisor is [Roland Hodler](https://sites.google.com/view/rolandhodler). I visited the Paris School of Economics in 2021/2022, hosted by [Ekaterina Zhuravskaya](http://www.parisschoolofeconomics.com/zhuravskaya-ekaterina/). In 2019, I visited ETH Zurich, hosted by Elliott Ash.
 
