@@ -5,7 +5,7 @@ In January 2023, I joined ETH Zurich as a Post-Doctoral researcher ([Elliott Ash
 
 My Ph.D. supervisor is [Roland Hodler](https://sites.google.com/view/rolandhodler). I visited the Paris School of Economics in 2021/2022, hosted by [Ekaterina Zhuravskaya](http://www.parisschoolofeconomics.com/zhuravskaya-ekaterina/). In 2019, I visited ETH Zurich, hosted by Elliott Ash.
 
-For more information, [see my CV](https://www.dropbox.com/s/oaf18zcy44ctwfr/widmer_cv_02jan23.pdf?dl=0).
+[See my CV](https://www.dropbox.com/s/oaf18zcy44ctwfr/widmer_cv_02jan23.pdf?dl=0) for more information.
 
 ### Research
 
