@@ -21,6 +21,12 @@ My Ph.D. supervisor is [Roland Hodler](https://sites.google.com/view/rolandhodle
 
 - [Who Owns the Online Media?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3969253), with [Ulrich Matter](https://umatter.github.io/)
 
+#### Work in Progress
+
+- [Is Propaganda Front-Page News?]()
+
+- [Algorithms, Political Attitudes, and Well-Being](), with [Germain Gauthier](https://pinchofdata.github.io/germaingauthier/), [Roland Hodler](https://sites.google.com/view/rolandhodler), and [Ekaterina Zhuravskaya](http://www.parisschoolofeconomics.com/zhuravskaya-ekaterina/)
+
 ### Teaching
 
 - Public Economics (2017-2022)
