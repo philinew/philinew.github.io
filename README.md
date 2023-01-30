@@ -23,9 +23,9 @@ My Ph.D. supervisor is [Roland Hodler](https://sites.google.com/view/rolandhodle
 
 #### Work in Progress
 
-- [Is Propaganda Front-Page News?]()
+- Is Propaganda Front-Page News?
 
-- [Algorithms, Political Attitudes, and Well-Being](), with [Germain Gauthier](https://pinchofdata.github.io/germaingauthier/), [Roland Hodler](https://sites.google.com/view/rolandhodler), and [Ekaterina Zhuravskaya](http://www.parisschoolofeconomics.com/zhuravskaya-ekaterina/)
+- Algorithms, Political Attitudes, and Well-Being, with [Germain Gauthier](https://pinchofdata.github.io/germaingauthier/), [Roland Hodler](https://sites.google.com/view/rolandhodler), and [Ekaterina Zhuravskaya](http://www.parisschoolofeconomics.com/zhuravskaya-ekaterina/)
 
 ### Teaching
 
