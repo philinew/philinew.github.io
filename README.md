@@ -1,6 +1,6 @@
 ### About me
 
-I will obtain my Ph.D. in Economics from the [University of St.Gallen](https://www.unisg.ch/) in September 2023. My research covers topics related to the media and politics. Methodologically, I specialize in developing new approaches to quantify politically and economically relevant concepts from unstructured data such as text.
+I will obtain my Ph.D. in Economics (specialization: Econometrics) from the [University of St.Gallen](https://www.unisg.ch/) in September 2023. My research covers topics related to the media and politics. Methodologically, I specialize in developing new approaches to quantify politically and economically relevant concepts from unstructured data such as text.
 
 In January 2023, I joined ETH Zurich as a Post-Doctoral researcher, working at the Center for Law & Economics with [Elliott Ash](https://elliottash.com/).
 
