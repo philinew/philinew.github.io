@@ -6,7 +6,7 @@ In January 2023, I joined ETH Zurich as a Post-Doctoral researcher, working at t
 
 My Ph.D. supervisor is [Roland Hodler](https://sites.google.com/view/rolandhodler). I visited the Paris School of Economics in 2021/2022, hosted by [Ekaterina Zhuravskaya](http://www.parisschoolofeconomics.com/zhuravskaya-ekaterina/). In 2019, I visited ETH Zurich, hosted by Elliott Ash.
 
-[See my CV](https://www.dropbox.com/s/reu4g021xn0ieta/widmer_cv_01mar23.pdf?dl=0) for more information.
+[See my CV](https://www.dropbox.com/s/0uvl12eopfl8kcb/widmer_cv_15mar23.pdf?dl=0) for more information.
 
 ### Research
 
@@ -30,10 +30,11 @@ My Ph.D. supervisor is [Roland Hodler](https://sites.google.com/view/rolandhodle
 
 ### Teaching
 
+- Text-as-Data (2023)
 - Public Economics (2017-2022)
 - Failed States (2021-2022)
 - [Summer Institute in Computational Social Science](https://github.com/computational-social-science-zurich/sicss-zurich), see our [GitHub](https://sicss.io/) (2021)
-- Data Handling: Import, Cleaning and Visualisation (2019-2021)
+- Data Science (2019-2021)
 - Political Economics (2020)
 - Introduction to Microeconomics (2017-2018)
 
