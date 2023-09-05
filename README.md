@@ -17,6 +17,7 @@ In January 2023, I joined ETH Zurich as a Post-Doctoral researcher, working at t
 #### Working Papers
 
 - [Who Owns the Online Media?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3969253), with [Ulrich Matter](https://umatter.github.io/) -- _R&R at AEJ: Economic Policy_
+  
 - [Media Slant is Contagious](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3712218), with [Sergio Galletta](http://sergio-galletta.com/) and [Elliott Ash](https://elliottash.com/)
 
 #### Work in Progress
@@ -31,13 +32,19 @@ In January 2023, I joined ETH Zurich as a Post-Doctoral researcher, working at t
 
 #### Own Courses
 - Computational Social Science with Images and Audio (2023) -- _ETH Zurich_
+  
 - Text-as-Data (2023) -- _LMU Munich_
+
 - [Summer Institute in Computational Social Science](https://github.com/computational-social-science-zurich/sicss-zurich), see our [GitHub](https://sicss.io/) (2021) -- _University of St.Gallen and ETH Zurich_
 
 
 #### Teaching Assistance (University of St.Gallen)
 - Failed States and Nationbuilding (2021-2023)
+  
 - Public Economics (2017-2022)
+  
 - Data Science (2019-2021)
+  
 - Political Economics (2020)
+  
 - Introduction to Microeconomics (2017-2018)
