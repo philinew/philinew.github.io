@@ -34,8 +34,8 @@ In January 2023, I joined ETH Zurich as a Post-Doctoral researcher, working at t
 
 
 #### Teaching Assistance (University of St.Gallen)
+- Failed States and Nationbuilding (2021-2023)
 - Public Economics (2017-2022)
-- Failed States (2021-2022)
 - Data Science (2019-2021)
 - Political Economics (2020)
 - Introduction to Microeconomics (2017-2018)
