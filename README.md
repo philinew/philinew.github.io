@@ -24,6 +24,8 @@ In January 2023, I joined ETH Zurich as a Post-Doctoral researcher, working at t
 - Is Propaganda Front-Page News?
 
 - Algorithms, Political Attitudes, and Well-Being, with [Germain Gauthier](https://pinchofdata.github.io/germaingauthier/), [Roland Hodler](https://sites.google.com/view/rolandhodler), and [Ekaterina Zhuravskaya](http://www.parisschoolofeconomics.com/zhuravskaya-ekaterina/) -- _Swiss National Science Foundation Grant No. 100018_215554_
+  
+- Generalized Topic Models, with [Elliott Ash](https://elliottash.com/) and [Germain Gauthier](https://pinchofdata.github.io/germaingauthier/)
 
 ### Teaching
 
