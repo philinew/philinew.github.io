@@ -30,7 +30,7 @@ In January 2023, I joined ETH Zurich as a Post-Doctoral researcher, working at t
 #### Own Courses
 - Computational Social Science with Images and Audio (2023) -- _ETH Zurich_
 - Text-as-Data (2023) -- _LMU Munich_
-- [Summer Institute in Computational Social Science](https://github.com/computational-social-science-zurich/sicss-zurich), see our [GitHub](https://sicss.io/) (2021) -- _University of St.Gallen and ETH Zurich__
+- [Summer Institute in Computational Social Science](https://github.com/computational-social-science-zurich/sicss-zurich), see our [GitHub](https://sicss.io/) (2021) -- _University of St.Gallen and ETH Zurich_
 
 
 #### Teaching Assistance (University of St.Gallen)
