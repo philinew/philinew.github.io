@@ -4,7 +4,7 @@ My research covers topics related to the media, algorithms, and their relation t
 
 In January 2023, I joined ETH Zurich as a Post-Doctoral researcher, working at the Center for Law & Economics with [Elliott Ash](https://elliottash.com/). I completed my Ph.D. in Economics at the [University of St.Gallen](https://www.unisg.ch/) (summa cum laude, 2023), supervised by [Roland Hodler](https://sites.google.com/view/rolandhodler). I visited the Paris School of Economics in 2021/2022, hosted by [Ekaterina Zhuravskaya](http://www.parisschoolofeconomics.com/zhuravskaya-ekaterina/). In 2019, I visited ETH Zurich, hosted by Elliott Ash.
 
-[See my CV](https://www.dropbox.com/scl/fi/kmh53jsqjmlc53ky56kgf/cv.pdf?rlkey=bnrcbf3kkyaia6k0w146rhlzv&dl=0) for more information.
+[See my CV](https://www.dropbox.com/scl/fi/0e84vdsuomktu9mhilr03/widmer_cv_15nov23.pdf?rlkey=3x8gbbvz795tie5uvutb766t1&dl=0) for more information.
 
 ### Research
 
