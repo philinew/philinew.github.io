@@ -20,9 +20,9 @@ In January 2023, I joined ETH Zurich as a Post-Doctoral researcher, working at t
   
 - [Media Slant is Contagious](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3712218), with [Sergio Galletta](http://sergio-galletta.com/) and [Elliott Ash](https://elliottash.com/) -- _R&R at the Economic Journal_
 
-#### Work in Progress
-
 - [Is Propaganda Front-Page News?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4686681)
+
+#### Work in Progress
 
 - Algorithms, Political Attitudes, and Well-Being, with [Germain Gauthier](https://pinchofdata.github.io/germaingauthier/), [Roland Hodler](https://sites.google.com/view/rolandhodler), and [Ekaterina Zhuravskaya](http://www.parisschoolofeconomics.com/zhuravskaya-ekaterina/) -- _Swiss National Science Foundation Grant No. 100018_215554_
   
