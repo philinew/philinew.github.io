@@ -6,13 +6,17 @@ In January 2023, I joined ETH Zurich as a Post-Doctoral researcher, working at t
 
 [See my CV](https://www.dropbox.com/scl/fi/k3rzh9ky474fyhfcckipv/widmer_cv_15nov23.pdf?rlkey=qpvarek578i8dakfrdjdz8x9f&dl=0) for more information.
 
+
+
 ### Research
+
 
 #### Publications
 - [Ministers Engage in Favoritism Too](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3818193), with Noémie Zurlinden -- _Journal of Public Economics (2022)_
 
 - [Text Semantics Capture Political and Economic Narratives](https://arxiv.org/abs/2108.01720), with [Elliott Ash](https://elliottash.com/) and [Germain Gauthier](https://pinchofdata.github.io/germaingauthier/) -- _Political Analysis (2023)_
   - Our Python package ```relatio``` extracts narrative statements from text, see on [GitHub](https://github.com/relatio-nlp/relatio) or [PyPI](https://pypi.org/project/relatio/)
+
 
 #### Working Papers
 
@@ -22,13 +26,17 @@ In January 2023, I joined ETH Zurich as a Post-Doctoral researcher, working at t
 
 - [Is Propaganda Front-Page News?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4686681)
 
+
 #### Work in Progress
 
 - Algorithms, Political Attitudes, and Well-Being, with [Germain Gauthier](https://pinchofdata.github.io/germaingauthier/), [Roland Hodler](https://sites.google.com/view/rolandhodler), and [Ekaterina Zhuravskaya](http://www.parisschoolofeconomics.com/zhuravskaya-ekaterina/) -- _Swiss National Science Foundation Grant No. 100018_215554_
   
 - Generalized Topic Models, with [Elliott Ash](https://elliottash.com/) and [Germain Gauthier](https://pinchofdata.github.io/germaingauthier/)
 
+
+
 ### Teaching
+
 
 #### Own Courses
 - [Computational Social Science with Images and Audio](https://github.com/philinew/css_images_audio) (2023) -- _ETH Zurich_
