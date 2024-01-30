@@ -6,7 +6,13 @@ In January 2023, I joined ETH Zurich as a Post-Doctoral researcher, working at t
 
 [See my CV](https://www.dropbox.com/scl/fi/k3rzh9ky474fyhfcckipv/widmer_cv_15nov23.pdf?rlkey=qpvarek578i8dakfrdjdz8x9f&dl=0) for more information.
 
+### News
 
+[Call for Papers:](https://forms.gle/PNfAi6uNzUtehs6o6) Monash-Warwick-Zurich Text-As-Data Workshop on April 15th-16th, 2024 (online)
+
+I am co-organizing the 7th edition of the Monash-Warwick-Zurich Text-As-Data Workshop, together with [Elliott Ash](https://elliottash.com/) and [Sascha O. Becker](http://www.sobecker.de/).
+
+We welcome submissions from all institutions and all fields in social science and data science using text, audio, images, or other unstructured data. You can submit full papers and extended abstracts. Please submit [here.](https://forms.gle/PNfAi6uNzUtehs6o6)
 
 ### Research
 
