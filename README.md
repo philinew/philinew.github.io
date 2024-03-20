@@ -8,11 +8,9 @@ In January 2023, I joined ETH Zurich as a Post-Doctoral researcher, working at t
 
 ### News
 
-[Call for Papers:](https://forms.gle/PNfAi6uNzUtehs6o6) Monash-Warwick-Zurich Text-As-Data Workshop on April 15th-16th, 2024 (online)
+I am co-organizing the 7th edition of the Monash-Warwick-Zurich Text-As-Data Workshop, together with [Elliott Ash](https://elliottash.com/) and [Sascha O. Becker](http://www.sobecker.de/). It takes place on April 15th-16th, 2024 (online).
 
-I am co-organizing the 7th edition of the Monash-Warwick-Zurich Text-As-Data Workshop, together with [Elliott Ash](https://elliottash.com/) and [Sascha O. Becker](http://www.sobecker.de/).
-
-We welcome submissions from all institutions and all fields in social science and data science using text, audio, images, or other unstructured data. You can submit full papers and extended abstracts. Please submit [here](https://forms.gle/PNfAi6uNzUtehs6o6) until February 23rd.
+We have finalized the [program:](https://docs.google.com/spreadsheets/d/1grH4RabO30WuZ2Vn1Ld2wHCPQVSpFPEUyc7F04I7Cc4/edit#gid=0)! Register [here](https://forms.gle/BpYM7Apmr7PkaNU48) to attend the conference.
 
 ### Research
 
