@@ -8,9 +8,9 @@ In January 2023, I joined ETH Zurich as a Post-Doctoral researcher, working at t
 
 ### News
 
-I am co-organizing the 7th edition of the Monash-Warwick-Zurich Text-As-Data Workshop, together with [Elliott Ash](https://elliottash.com/) and [Sascha O. Becker](http://www.sobecker.de/). It takes place on April 15th-16th, 2024 (online).
+I am co-organizing the Monash-Warwick-Zurich Text-As-Data Workshop series, together with [Elliott Ash](https://elliottash.com/) and [Sascha O. Becker](http://www.sobecker.de/). The next edition takes place on September 16th & 17th, 2024 (online). The call for papers will be out soon!
 
-We have finalized the [program](https://docs.google.com/spreadsheets/d/1grH4RabO30WuZ2Vn1Ld2wHCPQVSpFPEUyc7F04I7Cc4/edit#gid=0)! Register [here](https://forms.gle/BpYM7Apmr7PkaNU48) to attend the conference.
+In the meantime, you may want to check out the program [program](https://docs.google.com/spreadsheets/d/1grH4RabO30WuZ2Vn1Ld2wHCPQVSpFPEUyc7F04I7Cc4/edit#gid=0) of the past edition. Fill out [this form](https://forms.gle/BpYM7Apmr7PkaNU48) if you want to be added to the mailing list.
 
 ### Research
 
@@ -29,6 +29,8 @@ We have finalized the [program](https://docs.google.com/spreadsheets/d/1grH4RabO
 - [Media Slant is Contagious](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3712218), with [Sergio Galletta](http://sergio-galletta.com/) and [Elliott Ash](https://elliottash.com/) -- _R&R at the Economic Journal_
 
 - [Is Propaganda Front-Page News?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4686681)
+  
+- [Aligning Large Language Models with Diverse Political Viewpoints](https://arxiv.org/abs/2406.14155), with [Dominik Stammbach](https://dominik-stammbach.github.io/), [Eunjung Cho](https://scholar.google.com/citations?user=HOKn5HIAAAAJ&hl=en), [Caglar Gulcehre](https://www.caglarg.com/), and [Elliott Ash](https://elliottash.com/)
 
 
 #### Work in Progress
@@ -36,7 +38,6 @@ We have finalized the [program](https://docs.google.com/spreadsheets/d/1grH4RabO
 - Algorithms, Political Attitudes, and Well-Being, with [Germain Gauthier](https://pinchofdata.github.io/germaingauthier/), [Roland Hodler](https://sites.google.com/view/rolandhodler), and [Ekaterina Zhuravskaya](http://www.parisschoolofeconomics.com/zhuravskaya-ekaterina/) -- _Swiss National Science Foundation Grant No. 100018_215554_
   
 - Generalized Topic Models, with [Elliott Ash](https://elliottash.com/) and [Germain Gauthier](https://pinchofdata.github.io/germaingauthier/)
-
 
 
 ### Teaching
