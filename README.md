@@ -10,7 +10,7 @@ In January 2023, I joined ETH Zurich as a Post-Doctoral researcher, working at t
 
 I am co-organizing the Monash-Warwick-Zurich-CEPR Text-As-Data Workshop series, together with [Elliott Ash](https://elliottash.com/) and [Sascha O. Becker](http://www.sobecker.de/). The next edition takes place on September 16th & 17th, 2024 (online). Submit your paper or extended abstract [here](https://docs.google.com/forms/d/1xayw4Flucx1EbjOAoipblrBYHq7bFbFevm8TDLtjmWs/edit) until 4 August.
 
-In the meantime, you may want to check out the [programs](https://docs.google.com/document/d/1RPjo7G8dZ-btptolQK5YQHlWGbHTDAnaOqokgq2nqMQ/edit) of past editions.
+You can check out the [programs](https://docs.google.com/spreadsheets/d/1grH4RabO30WuZ2Vn1Ld2wHCPQVSpFPEUyc7F04I7Cc4/edit#gid=0) of past editions.
 
 ### Research
 
