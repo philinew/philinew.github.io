@@ -2,15 +2,17 @@
 
 My research covers topics related to the media, algorithms, and their relation to political and market institutions. Methodologically, I specialize in developing new approaches to quantify politically and economically relevant concepts from unstructured data such as text.
 
+In fall 2024, I will join the [Paris School of Economics](https://www.parisschoolofeconomics.eu/en/) as an Assistant Professor in Economics.
+
 In January 2023, I joined ETH Zurich as a Post-Doctoral researcher, working at the Center for Law & Economics with [Elliott Ash](https://elliottash.com/). I completed my Ph.D. in Economics at the [University of St.Gallen](https://www.unisg.ch/) (summa cum laude, 2023), supervised by [Roland Hodler](https://sites.google.com/view/rolandhodler). I visited the Paris School of Economics in 2021/2022, hosted by [Ekaterina Zhuravskaya](http://www.parisschoolofeconomics.com/zhuravskaya-ekaterina/). In 2019, I visited ETH Zurich, hosted by Elliott Ash.
 
 [See my CV](https://www.dropbox.com/scl/fi/k3rzh9ky474fyhfcckipv/widmer_cv_15nov23.pdf?rlkey=qpvarek578i8dakfrdjdz8x9f&dl=0) for more information.
 
 ### News
 
-I am co-organizing the Monash-Warwick-Zurich-CEPR Text-As-Data Workshop series, together with [Elliott Ash](https://elliottash.com/) and [Sascha O. Becker](http://www.sobecker.de/). The next edition takes place on September 16th & 17th, 2024 (online). Submit your paper or extended abstract [here](https://docs.google.com/forms/d/1xayw4Flucx1EbjOAoipblrBYHq7bFbFevm8TDLtjmWs/edit) until 4 August.
+I am co-organizing the Monash-Warwick-Zurich-CEPR Text-As-Data Workshop series, together with [Elliott Ash](https://elliottash.com/) and [Sascha O. Becker](http://www.sobecker.de/). The most recent edition took place on September 16th & 17th, 2024 (online). See the program [here](https://docs.google.com/spreadsheets/d/1tTOS3JcdvvTlezVmyXmDGc16RPqyg0oX6JwUUWxio7Q/edit?gid=0#gid=0). The next edition will take place in spring 2025. To stay updated, please fill out this [registration form](https://docs.google.com/forms/d/e/1FAIpQLSej0XxApdIED_hMBotRBXTn9o7UkFWGHcGKUIDF9JTcKQW-Ag/viewform).
 
-You can check out the [programs](https://docs.google.com/spreadsheets/d/1grH4RabO30WuZ2Vn1Ld2wHCPQVSpFPEUyc7F04I7Cc4/edit#gid=0) of past editions.
+You can check out the [programs](https://docs.google.com/spreadsheets/d/1grH4RabO30WuZ2Vn1Ld2wHCPQVSpFPEUyc7F04I7Cc4/edit#gid=0) of all past editions.
 
 ### Research
 
@@ -44,6 +46,10 @@ You can check out the [programs](https://docs.google.com/spreadsheets/d/1grH4Rab
 
 
 #### Own Courses
+- Upcoming: Media Economics (2024) -- _Paris School of Economics_
+
+- The Use of AI in Economic Research (short course; 2024) -- _University of Hohenheim_
+
 - [Computational Social Science with Images and Audio](https://github.com/philinew/css_images_audio) (2023) -- _ETH Zurich_
   
 - Text-as-Data (2023) -- _LMU Munich_
