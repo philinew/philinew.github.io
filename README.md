@@ -39,7 +39,7 @@ You can check out the [programs](https://docs.google.com/spreadsheets/d/1grH4Rab
 
 - Algorithms, Political Attitudes, and Well-Being, with [Germain Gauthier](https://pinchofdata.github.io/germaingauthier/), [Roland Hodler](https://sites.google.com/view/rolandhodler), and [Ekaterina Zhuravskaya](http://www.parisschoolofeconomics.com/zhuravskaya-ekaterina/) -- _Swiss National Science Foundation Grant No. 100018_215554_
   
-- Generalized Topic Models, with [Elliott Ash](https://elliottash.com/) and [Germain Gauthier](https://pinchofdata.github.io/germaingauthier/)
+- Neural Latent Variable Models for Unstructured Data, with [Elliott Ash](https://elliottash.com/) and [Germain Gauthier](https://pinchofdata.github.io/germaingauthier/)
 
 
 ### Teaching
