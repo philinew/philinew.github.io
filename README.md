@@ -26,7 +26,7 @@ You can check out the [programs](https://docs.google.com/spreadsheets/d/1grH4Rab
 
 - [Ministers Engage in Favoritism Too](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3818193), with Noémie Zurlinden -- _Journal of Public Economics (2022)_
 
-- [Aligning Large Language Models with Diverse Political Viewpoints](https://aclanthology.org/2024.emnlp-main.412/), with [Dominik Stammbach](https://dominik-stammbach.github.io/), [Eunjung Cho](https://scholar.google.com/citations?user=HOKn5HIAAAAJ&hl=en), [Caglar Gulcehre](https://www.caglarg.com/), and [Elliott Ash](https://elliottash.com/) -- Proceedings of the _2024 Conference on Empirical Methods in Natural Language Processing (EMNLP)_
+- [Aligning Large Language Models with Diverse Political Viewpoints](https://aclanthology.org/2024.emnlp-main.412/), with [Dominik Stammbach](https://dominik-stammbach.github.io/), [Eunjung Cho](https://scholar.google.com/citations?user=HOKn5HIAAAAJ&hl=en), [Caglar Gulcehre](https://www.caglarg.com/), and [Elliott Ash](https://elliottash.com/) -- _Proceedings of the Conference on Empirical Methods in Natural Language Processing (2024)_
 
 
 #### Working Papers
