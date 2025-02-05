@@ -2,15 +2,17 @@
 
 My research covers topics related to the media, algorithms, and their relation to political and market institutions. Methodologically, I specialize in developing new approaches to quantify politically and economically relevant concepts from unstructured data such as text.
 
-In fall 2024, I will join the [Paris School of Economics](https://www.parisschoolofeconomics.eu/en/) as an Assistant Professor in Economics.
+Since the fall of 2024, I have been an Assistant Professor at the [Paris School of Economics](https://www.parisschoolofeconomics.eu/en/).
 
-In January 2023, I joined ETH Zurich as a Post-Doctoral researcher, working at the Center for Law & Economics with [Elliott Ash](https://elliottash.com/). I completed my Ph.D. in Economics at the [University of St.Gallen](https://www.unisg.ch/) (summa cum laude, 2023), supervised by [Roland Hodler](https://sites.google.com/view/rolandhodler). I visited the Paris School of Economics in 2021/2022, hosted by [Ekaterina Zhuravskaya](http://www.parisschoolofeconomics.com/zhuravskaya-ekaterina/). In 2019, I visited ETH Zurich, hosted by Elliott Ash.
+From 2023 to 2024, I worked at ETH Zurich as a Post-Doctoral researcher at the Center for Law & Economics with [Elliott Ash](https://elliottash.com/). I completed my Ph.D. in Economics at the [University of St.Gallen](https://www.unisg.ch/) (summa cum laude, 2023), supervised by [Roland Hodler](https://sites.google.com/view/rolandhodler). I visited the Paris School of Economics in 2021 and 2022, hosted by [Ekaterina Zhuravskaya](http://www.parisschoolofeconomics.com/zhuravskaya-ekaterina/). In 2019, I visited ETH Zurich, hosted by Elliott Ash.
 
 [See my CV](https://www.dropbox.com/scl/fi/k3rzh9ky474fyhfcckipv/widmer_cv_15nov23.pdf?rlkey=qpvarek578i8dakfrdjdz8x9f&dl=0) for more information.
 
 ### News
 
-I am co-organizing the Monash-Warwick-Zurich-CEPR Text-As-Data Workshop series, together with [Elliott Ash](https://elliottash.com/) and [Sascha O. Becker](http://www.sobecker.de/). The most recent edition took place on September 16th & 17th, 2024 (online). See the program [here](https://docs.google.com/spreadsheets/d/1tTOS3JcdvvTlezVmyXmDGc16RPqyg0oX6JwUUWxio7Q/edit?gid=0#gid=0). The next edition will take place in spring 2025. To stay updated, please fill out this [registration form](https://docs.google.com/forms/d/e/1FAIpQLSej0XxApdIED_hMBotRBXTn9o7UkFWGHcGKUIDF9JTcKQW-Ag/viewform).
+I am co-organizing the Monash-Warwick-Zurich-CEPR Text-As-Data Workshop series, together with [Elliott Ash](https://elliottash.com/) and [Sascha O. Becker](http://www.sobecker.de/). The most recent edition occurred on September 16th & 17th, 2024 (online). See the program [here](https://docs.google.com/spreadsheets/d/1tTOS3JcdvvTlezVmyXmDGc16RPqyg0oX6JwUUWxio7Q/edit?gid=0#gid=0).
+
+The next edition will take place on 28 and 29 April. The call for papers will be launched soon. To stay updated, please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSej0XxApdIED_hMBotRBXTn9o7UkFWGHcGKUIDF9JTcKQW-Ag/viewform).
 
 You can check out the [programs](https://docs.google.com/spreadsheets/d/1grH4RabO30WuZ2Vn1Ld2wHCPQVSpFPEUyc7F04I7Cc4/edit#gid=0) of all past editions.
 
@@ -18,10 +20,13 @@ You can check out the [programs](https://docs.google.com/spreadsheets/d/1grH4Rab
 
 
 #### Publications
-- [Ministers Engage in Favoritism Too](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3818193), with Noémie Zurlinden -- _Journal of Public Economics (2022)_
 
 - [Text Semantics Capture Political and Economic Narratives](https://arxiv.org/abs/2108.01720), with [Elliott Ash](https://elliottash.com/) and [Germain Gauthier](https://pinchofdata.github.io/germaingauthier/) -- _Political Analysis (2023)_
   - Our Python package ```relatio``` extracts narrative statements from text, see on [GitHub](https://github.com/relatio-nlp/relatio) or [PyPI](https://pypi.org/project/relatio/)
+
+- [Ministers Engage in Favoritism Too](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3818193), with Noémie Zurlinden -- _Journal of Public Economics (2022)_
+
+- [Aligning Large Language Models with Diverse Political Viewpoints](https://aclanthology.org/2024.emnlp-main.412/), with [Dominik Stammbach](https://dominik-stammbach.github.io/), [Eunjung Cho](https://scholar.google.com/citations?user=HOKn5HIAAAAJ&hl=en), [Caglar Gulcehre](https://www.caglarg.com/), and [Elliott Ash](https://elliottash.com/) -- Proceedings of the _2024 Conference on Empirical Methods in Natural Language Processing (EMNLP)_
 
 
 #### Working Papers
@@ -31,24 +36,25 @@ You can check out the [programs](https://docs.google.com/spreadsheets/d/1grH4Rab
 - [Media Slant is Contagious](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3712218), with [Sergio Galletta](http://sergio-galletta.com/) and [Elliott Ash](https://elliottash.com/) -- _R&R at the Economic Journal_
 
 - [Is Propaganda Front-Page News?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4686681)
-  
-- [Aligning Large Language Models with Diverse Political Viewpoints](https://arxiv.org/abs/2406.14155), with [Dominik Stammbach](https://dominik-stammbach.github.io/), [Eunjung Cho](https://scholar.google.com/citations?user=HOKn5HIAAAAJ&hl=en), [Caglar Gulcehre](https://www.caglarg.com/), and [Elliott Ash](https://elliottash.com/)
 
 
 #### Work in Progress
 
-- Algorithms, Political Attitudes, and Well-Being, with [Germain Gauthier](https://pinchofdata.github.io/germaingauthier/), [Roland Hodler](https://sites.google.com/view/rolandhodler), and [Ekaterina Zhuravskaya](http://www.parisschoolofeconomics.com/zhuravskaya-ekaterina/) -- _Swiss National Science Foundation Grant No. 100018_215554_
+- The Political Effects of X's Recommender Algorithm, with [Germain Gauthier](https://pinchofdata.github.io/germaingauthier/), [Roland Hodler](https://sites.google.com/view/rolandhodler), and [Ekaterina Zhuravskaya](http://www.parisschoolofeconomics.com/zhuravskaya-ekaterina/) -- _Paper available upon request; funded by the Swiss National Science Foundation Grant No. 100018_215554_
   
-- Neural Latent Variable Models for Unstructured Data, with [Elliott Ash](https://elliottash.com/) and [Germain Gauthier](https://pinchofdata.github.io/germaingauthier/)
+- Deep Latent Variable Models for Unstructured Data, with [Elliott Ash](https://elliottash.com/) and [Germain Gauthier](https://pinchofdata.github.io/germaingauthier/)
 
 
 ### Teaching
 
 
 #### Own Courses
-- Upcoming: Media Economics (2024) -- _Paris School of Economics_
 
-- The Use of AI in Economic Research (short course; 2024) -- _University of Hohenheim_
+- The Political Economy of Artificial Intelligence (2025) -- _Paris School of Economics_
+
+- Media Economics (2024) -- _Paris School of Economics_
+
+- The Use of Artificial Intelligence in Economic Research (short course; 2024) -- _University of Hohenheim_
 
 - [Computational Social Science with Images and Audio](https://github.com/philinew/css_images_audio) (2023) -- _ETH Zurich_
   
@@ -58,6 +64,7 @@ You can check out the [programs](https://docs.google.com/spreadsheets/d/1grH4Rab
 
 
 #### Teaching Assistance (University of St.Gallen)
+
 - Failed States and Nationbuilding (2021-2023)
   
 - Public Economics (2017-2022)
