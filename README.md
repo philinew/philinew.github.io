@@ -10,9 +10,11 @@ From 2023 to 2024, I worked at ETH Zurich as a Post-Doctoral researcher at the C
 
 ### News
 
-I am co-organizing the Monash-Warwick-Zurich-CEPR Text-As-Data Workshop series, together with [Elliott Ash](https://elliottash.com/) and [Sascha O. Becker](http://www.sobecker.de/). The most recent edition occurred on September 16th & 17th, 2024 (online). See the program [here](https://docs.google.com/spreadsheets/d/1tTOS3JcdvvTlezVmyXmDGc16RPqyg0oX6JwUUWxio7Q/edit?gid=0#gid=0).
+I am co-organizing the MPWZ-CEPR Text-As-Data Workshop series, together with [Elliott Ash](https://elliottash.com/) and [Sascha O. Becker](http://www.sobecker.de/). The next edition will take place on 28 and 29 April 2025 (online-only).
 
-The next edition will take place on 28 and 29 April. The call for papers will be launched soon. To stay updated, please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSej0XxApdIED_hMBotRBXTn9o7UkFWGHcGKUIDF9JTcKQW-Ag/viewform).
+Submit your work using [this form](https://docs.google.com/forms/d/1xayw4Flucx1EbjOAoipblrBYHq7bFbFevm8TDLtjmWs/) until 15 March.
+
+If you don't want to submit work but stay updated nevertheless, please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSej0XxApdIED_hMBotRBXTn9o7UkFWGHcGKUIDF9JTcKQW-Ag/viewform).
 
 You can check out the [programs](https://docs.google.com/spreadsheets/d/1grH4RabO30WuZ2Vn1Ld2wHCPQVSpFPEUyc7F04I7Cc4/edit#gid=0) of all past editions.
 
