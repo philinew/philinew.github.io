@@ -14,7 +14,7 @@ I am co-organizing the MPWZ-CEPR Text-As-Data Workshop series, together with [El
 
 Submit your work using [this form](https://docs.google.com/forms/d/1xayw4Flucx1EbjOAoipblrBYHq7bFbFevm8TDLtjmWs/) until 15 March.
 
-If you don't want to submit work but stay updated nevertheless, please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSej0XxApdIED_hMBotRBXTn9o7UkFWGHcGKUIDF9JTcKQW-Ag/viewform).
+If you don't want to submit work but stay updated, please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSej0XxApdIED_hMBotRBXTn9o7UkFWGHcGKUIDF9JTcKQW-Ag/viewform).
 
 You can check out the [programs](https://docs.google.com/document/d/1RPjo7G8dZ-btptolQK5YQHlWGbHTDAnaOqokgq2nqMQ/edit?tab=t.0) of all past editions.
 
