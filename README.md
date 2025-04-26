@@ -2,9 +2,9 @@
 
 My research covers topics related to the media, algorithms, and their relation to political and market institutions. Methodologically, I specialize in developing new approaches to quantify politically and economically relevant concepts from unstructured data such as text.
 
-Since the fall of 2024, I have been an Assistant Professor at the [Paris School of Economics](https://www.parisschoolofeconomics.eu/en/).
+I am an Assistant Professor at the [Paris School of Economics](https://www.parisschoolofeconomics.eu/en/).
 
-From 2023 to 2024, I worked at ETH Zurich as a Post-Doctoral researcher at the Center for Law & Economics with [Elliott Ash](https://elliottash.com/). I completed my Ph.D. in Economics at the [University of St.Gallen](https://www.unisg.ch/) (summa cum laude, 2023), supervised by [Roland Hodler](https://sites.google.com/view/rolandhodler). I visited the Paris School of Economics in 2021 and 2022, hosted by [Ekaterina Zhuravskaya](http://www.parisschoolofeconomics.com/zhuravskaya-ekaterina/). In 2019, I visited ETH Zurich, hosted by Elliott Ash.
+From 2023 to 2024, I worked as a Post-Doctoral researcher at ETH Zurich and the University of St.Gallen. I completed my Ph.D. in Economics at the [University of St.Gallen](https://www.unisg.ch/) (summa cum laude, 2023), supervised by [Roland Hodler](https://sites.google.com/view/rolandhodler). I visited the Paris School of Economics in 2021 and 2022, hosted by [Ekaterina Zhuravskaya](http://www.parisschoolofeconomics.com/zhuravskaya-ekaterina/). In 2019, I visited ETH Zurich, hosted by Elliott Ash.
 
 [See my CV](https://www.dropbox.com/scl/fi/k3rzh9ky474fyhfcckipv/widmer_cv_15nov23.pdf?rlkey=qpvarek578i8dakfrdjdz8x9f&dl=0) for more information.
 
