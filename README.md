@@ -6,7 +6,7 @@ I am an Assistant Professor at the [Paris School of Economics](https://www.paris
 
 Before, I worked as a Post-Doctoral researcher at ETH Zurich and the University of St.Gallen. I completed my Ph.D. in Economics at the [University of St.Gallen](https://www.unisg.ch/) (summa cum laude, 2023), supervised by [Roland Hodler](https://sites.google.com/view/rolandhodler). I visited the Paris School of Economics in 2021 and 2022, hosted by [Ekaterina Zhuravskaya](http://www.parisschoolofeconomics.com/zhuravskaya-ekaterina/). In 2019, I visited ETH Zurich, hosted by Elliott Ash.
 
-[See my CV](https://www.dropbox.com/scl/fi/k3rzh9ky474fyhfcckipv/widmer_cv_15nov23.pdf?rlkey=qpvarek578i8dakfrdjdz8x9f&dl=0) for more information.
+[See my CV](https://www.dropbox.com/scl/fi/lbyllgmvibd2dzyl9ulck/widmer_cv_may25.pdf?rlkey=veocah5sx1v8oprjmvh8l3un2&st=vkiqs959&dl=0) for more information.
 
 ### News
 
