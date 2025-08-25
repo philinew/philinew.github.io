@@ -47,9 +47,6 @@ You can also check out the [programs](https://docs.google.com/document/d/1RPjo7G
 
 ### Teaching
 
-
-#### Own Courses
-
 - The Political Economy of Artificial Intelligence (2025) -- _Paris School of Economics_
 
 - Media Economics (2024) -- _Paris School of Economics_
@@ -65,7 +62,7 @@ You can also check out the [programs](https://docs.google.com/document/d/1RPjo7G
 
 #### Teaching Assistance (University of St.Gallen)
 
-- Failed States and Nationbuilding (2021-2023)
+<!-- Failed States and Nationbuilding (2021-2023) -->
   
 - Public Economics (2017-2022)
   
