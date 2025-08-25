@@ -10,7 +10,7 @@ Before, I worked as a Post-Doctoral researcher at ETH Zurich and the University 
 
 ### News
 
-I am co-organizing the MPWZ-CEPR Text-As-Data Workshop series with [Elliott Ash](https://elliottash.com/) and [Sascha O. Becker](http://www.sobecker.de/). The next edition will take place in fall 2025 and will mark the 10th anniversary of our series! The most recent (9th) edition was held on 28 and 29 April 2025.
+I am co-organizing the MPWZ-CEPR Text-As-Data Workshop series with [Elliott Ash](https://elliottash.com/) and [Sascha O. Becker](http://www.sobecker.de/). The next edition will take place on 15-16 September and will mark the 10th anniversary of our series! You can still submit papers [here](https://docs.google.com/forms/d/1xayw4Flucx1EbjOAoipblrBYHq7bFbFevm8TDLtjmWs/) until 25 August 2025.
 
 To stay updated about our call for papers and future programs, please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSej0XxApdIED_hMBotRBXTn9o7UkFWGHcGKUIDF9JTcKQW-Ag/viewform).
 
@@ -37,7 +37,7 @@ You can also check out the [programs](https://docs.google.com/document/d/1RPjo7G
 
 - The Political Effects of X's Recommender Algorithm, with [Germain Gauthier](https://pinchofdata.github.io/germaingauthier/), [Roland Hodler](https://sites.google.com/view/rolandhodler), and [Ekaterina Zhuravskaya](http://www.parisschoolofeconomics.com/zhuravskaya-ekaterina/) -- _Paper available upon request; funded by the Swiss National Science Foundation Grant No. 100018_215554_ -- _R&R at Nature_
 
-- [Is Propaganda Front-Page News?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4686681) -- _Submitted_
+- [Is Propaganda Front-Page News?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4686681)
 
 
 #### Work in Progress
@@ -60,14 +60,14 @@ You can also check out the [programs](https://docs.google.com/document/d/1RPjo7G
 - [Summer Institute in Computational Social Science](https://sicss.io/), see our location-specific [GitHub](https://github.com/computational-social-science-zurich/sicss-zurich) (2021) -- _University of St.Gallen and ETH Zurich_
 
 
-#### Teaching Assistance (University of St.Gallen)
+<!-- #### Teaching Assistance (University of St.Gallen) -->
 
 <!-- Failed States and Nationbuilding (2021-2023) -->
   
-- Public Economics (2017-2022)
+<!-- - Public Economics (2017-2022) -->
   
-- Data Science (2019-2021)
+<!-- - Data Science (2019-2021) -->
   
-- Political Economics (2020)
+<!-- - Political Economics (2020) -->
   
-- Introduction to Microeconomics (2017-2018)
+<!-- - Introduction to Microeconomics (2017-2018) -->
