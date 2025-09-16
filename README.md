@@ -10,16 +10,16 @@ Before, I worked as a Post-Doctoral researcher at ETH Zurich and the University 
 
 ### News
 
-I am co-organizing the MPWZ-CEPR Text-As-Data Workshop series with [Elliott Ash](https://elliottash.com/) and [Sascha O. Becker](http://www.sobecker.de/). The next edition will take place on 15-16 September and will mark the 10th anniversary of our series! You can still submit papers [here](https://docs.google.com/forms/d/1xayw4Flucx1EbjOAoipblrBYHq7bFbFevm8TDLtjmWs/) until 25 August 2025.
+I am co-organizing the MPWZ-CEPR Text-As-Data Workshop series with [Elliott Ash](https://elliottash.com/) and [Sascha O. Becker](http://www.sobecker.de/). The most recent edition took place on 15-16 September. It marked the 10th anniversary of our series and featured special events, including a panel discussion on "AI in Economics Reviewing and Publishing."
 
-To stay updated about our call for papers and future programs, please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSej0XxApdIED_hMBotRBXTn9o7UkFWGHcGKUIDF9JTcKQW-Ag/viewform).
+The next edition will take place in spring 2026. To stay updated about our call for papers and future programs, please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSej0XxApdIED_hMBotRBXTn9o7UkFWGHcGKUIDF9JTcKQW-Ag/viewform).
 
-You can also check out the [programs](https://docs.google.com/document/d/1RPjo7G8dZ-btptolQK5YQHlWGbHTDAnaOqokgq2nqMQ/edit?tab=t.0) of all past editions.
+You can check out the [programs](https://docs.google.com/document/d/1RPjo7G8dZ-btptolQK5YQHlWGbHTDAnaOqokgq2nqMQ/edit?tab=t.0) of all past editions.
 
 ### Research
 
 
-#### Publications
+#### Selected Publications
 
 - [Text Semantics Capture Political and Economic Narratives](https://arxiv.org/abs/2108.01720), with [Elliott Ash](https://elliottash.com/) and [Germain Gauthier](https://pinchofdata.github.io/germaingauthier/) -- _Political Analysis (2023)_
   - Our Python package ```relatio``` extracts narrative statements from text, see on [GitHub](https://github.com/relatio-nlp/relatio) or [PyPI](https://pypi.org/project/relatio/)
@@ -27,6 +27,8 @@ You can also check out the [programs](https://docs.google.com/document/d/1RPjo7G
 - [Ministers Engage in Favoritism Too](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3818193), with Noémie Zurlinden -- _Journal of Public Economics (2022)_
 
 - [Aligning Large Language Models with Diverse Political Viewpoints](https://aclanthology.org/2024.emnlp-main.412/), with [Dominik Stammbach](https://dominik-stammbach.github.io/), [Eunjung Cho](https://scholar.google.com/citations?user=HOKn5HIAAAAJ&hl=en), [Caglar Gulcehre](https://www.caglarg.com/), and [Elliott Ash](https://elliottash.com/) -- _Proceedings of the Conference on Empirical Methods in Natural Language Processing (2024)_
+
+For all publications, please check my [Google Scholar profile](https://scholar.google.com/citations?user=1cyoOOYAAAAJ&hl=en).
 
 
 #### Working Papers
@@ -49,7 +51,7 @@ You can also check out the [programs](https://docs.google.com/document/d/1RPjo7G
 
 - The Political Economy of Artificial Intelligence (2025) -- _Paris School of Economics_
 
-- Media Economics (2024) -- _Paris School of Economics_
+- Media Economics (2024, 2025) -- _Paris School of Economics_
 
 - The Use of Artificial Intelligence in Economic Research (short course; 2024) -- _University of Hohenheim_
 
