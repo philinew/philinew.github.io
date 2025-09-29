@@ -8,13 +8,23 @@ Before, I worked as a Post-Doctoral researcher at ETH Zurich and the University 
 
 [See my CV](https://www.dropbox.com/scl/fi/lbyllgmvibd2dzyl9ulck/widmer_cv_may25.pdf?rlkey=veocah5sx1v8oprjmvh8l3un2&st=vkiqs959&dl=0) for more information.
 
+
 ### News
 
-I am co-organizing the MPWZ-CEPR Text-As-Data Workshop series with [Elliott Ash](https://elliottash.com/) and [Sascha O. Becker](http://www.sobecker.de/). The most recent edition took place on 15-16 September. It marked the 10th anniversary of our series and featured special events, including a panel discussion on "AI in Economics Reviewing and Publishing."
+
+#### MPWZ-CEPR Text-as-Data-Workshop
+
+I am co-organizing the MPWZ-CEPR Text-as-Data Workshop series with [Elliott Ash](https://elliottash.com/) and [Sascha O. Becker](http://www.sobecker.de/). The most recent edition took place on 15-16 September. It marked the 10th anniversary of our series and featured special events, including a panel discussion on "AI in Economics Reviewing and Publishing."
 
 The next edition will take place in spring 2026. To stay updated about our call for papers and future programs, please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSej0XxApdIED_hMBotRBXTn9o7UkFWGHcGKUIDF9JTcKQW-Ag/viewform).
 
 You can check out the [programs](https://docs.google.com/document/d/1RPjo7G8dZ-btptolQK5YQHlWGbHTDAnaOqokgq2nqMQ/edit?tab=t.0) of all past editions.
+
+
+#### Paris Empirical Political Economics Seminar (PEPES)
+
+Together with colleagues from the Paris School of Economics and Sciences Po, we organize the PEPES seminar series. Check out our [line-up for 2025-26](https://sites.google.com/site/pepeseminar/) and join if you are in the Paris area. To be added to our mailing list, please sign up [here](forms.gle/m5m2SHgY93RTaiRWA).
+
 
 ### Research
 
