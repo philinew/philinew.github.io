@@ -1,6 +1,6 @@
 ### About me
 
-My research covers topics related to the media, algorithms, and their relation to political and market institutions. Methodologically, I specialize in developing new approaches to quantify politically and economically relevant concepts from unstructured data such as text.
+My research covers topics related to the media, algorithms, and their relation to political and market institutions. Methodologically, I specialize in developing new approaches to quantify politically and economically relevant concepts from unstructured data such as text, images, and videos.
 
 I am an Assistant Professor at the [Paris School of Economics](https://www.parisschoolofeconomics.eu/en/).
 
