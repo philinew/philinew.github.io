@@ -43,9 +43,9 @@ For all publications, please check my [Google Scholar profile](https://scholar.g
 
 #### Working Papers
 
+- [Media Slant is Contagious](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3712218), with [Sergio Galletta](http://sergio-galletta.com/) and [Elliott Ash](https://elliottash.com/) -- _Conditionally Accepted at the Economic Journal_
+
 - [Who Owns the Online Media?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3969253), with [Ulrich Matter](https://umatter.github.io/) -- _R&R at AEJ: Economic Policy_
-  
-- [Media Slant is Contagious](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3712218), with [Sergio Galletta](http://sergio-galletta.com/) and [Elliott Ash](https://elliottash.com/) -- _R&R at the Economic Journal_
 
 - The Political Effects of X's Recommender Algorithm, with [Germain Gauthier](https://pinchofdata.github.io/germaingauthier/), [Roland Hodler](https://sites.google.com/view/rolandhodler), and [Ekaterina Zhuravskaya](http://www.parisschoolofeconomics.com/zhuravskaya-ekaterina/) -- _Paper available upon request; funded by the Swiss National Science Foundation Grant No. 100018_215554_ -- _R&R at Nature_
 
