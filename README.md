@@ -16,7 +16,11 @@ Before, I worked as a Post-Doctoral researcher at ETH Zurich and the University 
 
 I co-organize the MPWZ-CEPR Text-as-Data Workshop series with [Elliott Ash](https://elliottash.com/) and [Sascha O. Becker](http://www.sobecker.de/). The most recent edition took place on 15-16 September. It marked the 10th anniversary of our series and featured special events, including a panel discussion on "AI in Economics Reviewing and Publishing."
 
-The next edition will take place in spring 2026. To stay updated about our call for papers and future programs, please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSej0XxApdIED_hMBotRBXTn9o7UkFWGHcGKUIDF9JTcKQW-Ag/viewform).
+The next edition will take place  on April 13th-14th, 2026 (online only, as usual).
+ 
+Submit papers [here](https://docs.google.com/forms/d/1xayw4Flucx1EbjOAoipblrBYHq7bFbFevm8TDLtjmWs/edit) by March 13th, 2026.
+
+To stay updated about our call for papers and future programs, please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSej0XxApdIED_hMBotRBXTn9o7UkFWGHcGKUIDF9JTcKQW-Ag/viewform).
 
 You can check out the [programs](https://docs.google.com/document/d/1RPjo7G8dZ-btptolQK5YQHlWGbHTDAnaOqokgq2nqMQ/edit?tab=t.0) of all past editions.
 
