@@ -1,6 +1,6 @@
 ### About me
 
-My research covers topics related to the media, algorithms, and their relation to political and market institutions. Methodologically, I specialize in developing new approaches to quantify politically and economically relevant concepts from unstructured data such as text, images, and videos.
+My research covers topics related to the media, algorithms, and their relation to political and market institutions. Methodologically, I specialize in developing new approaches to quantify politically and economically relevant concepts from unstructured data -- such as text, images, and videos -- and implementing them in open-source software.
 
 I am an Assistant Professor at the [Paris School of Economics](https://www.parisschoolofeconomics.eu/en/).
 
@@ -16,7 +16,7 @@ Before, I worked as a Post-Doctoral researcher at ETH Zurich and the University 
 
 I co-organize the MPWZ-CEPR Text-as-Data Workshop series with [Elliott Ash](https://elliottash.com/) and [Sascha O. Becker](http://www.sobecker.de/). The most recent edition took place on 15-16 September. It marked the 10th anniversary of our series and featured special events, including a panel discussion on "AI in Economics Reviewing and Publishing."
 
-The next edition will take place  on April 13th-14th, 2026 (online only, as usual).
+The next edition will take place on April 13th-14th, 2026. As always, our conference is online-only -- to bring the latest text-as-data research to anyone, free of cost.
  
 Submit papers [here](https://docs.google.com/forms/d/1xayw4Flucx1EbjOAoipblrBYHq7bFbFevm8TDLtjmWs/edit) by March 13th, 2026.
 
@@ -33,14 +33,18 @@ Together with colleagues from the Paris School of Economics and Sciences Po, we 
 ### Research
 
 
-#### Selected Publications
+#### Selected Publications (all my publications are open-access)
+
+- The Political Effects of X's Recommender Algorithm, with [Germain Gauthier](https://pinchofdata.github.io/germaingauthier/), [Roland Hodler](https://sites.google.com/view/rolandhodler), and [Ekaterina Zhuravskaya](http://www.parisschoolofeconomics.com/zhuravskaya-ekaterina/) -- _Paper available upon request; funded by the Swiss National Science Foundation Grant No. 100018_215554_ -- _Forthcoming at Nature_
 
 - [Text Semantics Capture Political and Economic Narratives](https://arxiv.org/abs/2108.01720), with [Elliott Ash](https://elliottash.com/) and [Germain Gauthier](https://pinchofdata.github.io/germaingauthier/) -- _Political Analysis (2023)_
-  - Our Python package ```relatio``` extracts narrative statements from text, see on [GitHub](https://github.com/relatio-nlp/relatio) or [PyPI](https://pypi.org/project/relatio/)
+  - Our open-source package (Python) ```relatio``` extracts narrative statements from text, see on [GitHub](https://github.com/relatio-nlp/relatio) or [PyPI](https://pypi.org/project/relatio/)
 
 - [Ministers Engage in Favoritism Too](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3818193), with Noémie Zurlinden -- _Journal of Public Economics (2022)_
 
 - [Aligning Large Language Models with Diverse Political Viewpoints](https://aclanthology.org/2024.emnlp-main.412/), with [Dominik Stammbach](https://dominik-stammbach.github.io/), [Eunjung Cho](https://scholar.google.com/citations?user=HOKn5HIAAAAJ&hl=en), [Caglar Gulcehre](https://www.caglarg.com/), and [Elliott Ash](https://elliottash.com/) -- _Proceedings of the Conference on Empirical Methods in Natural Language Processing (2024)_
+
+- [The Dark Side of the Web: Towards Understanding Various Data Sources in Cyber Threat Intelligence](https://www.computer.org/csdl/proceedings-article/euros-pw/2025/954600a079/29EHC4TEtAA), with [Noè Canevascini](https://scholar.google.com/citations?user=kowe9scAAAAJ), [Irdin Pekaric](https://www.irdinpekaric.com/), [Pavel Laskov](https://www.uni.li/en/pavel.laskov), [Saskia Laura Schröer](https://scholar.google.com/citations?user=-re240wAAAAJ) -- _IEEE European Symposium on Security and Privacy Workshops (2025)_
 
 For all publications, please check my [Google Scholar profile](https://scholar.google.com/citations?user=1cyoOOYAAAAJ&hl=en).
 
@@ -51,14 +55,13 @@ For all publications, please check my [Google Scholar profile](https://scholar.g
 
 - [Who Owns the Online Media?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3969253), with [Ulrich Matter](https://umatter.github.io/) -- _R&R at AEJ: Economic Policy_
 
-- The Political Effects of X's Recommender Algorithm, with [Germain Gauthier](https://pinchofdata.github.io/germaingauthier/), [Roland Hodler](https://sites.google.com/view/rolandhodler), and [Ekaterina Zhuravskaya](http://www.parisschoolofeconomics.com/zhuravskaya-ekaterina/) -- _Paper available upon request; funded by the Swiss National Science Foundation Grant No. 100018_215554_ -- _R&R at Nature_
-
 - [Is Propaganda Front-Page News?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4686681)
 
 
 #### Work in Progress
   
 - Deep Latent Variable Models for Unstructured Data, with [Elliott Ash](https://elliottash.com/) and [Germain Gauthier](https://pinchofdata.github.io/germaingauthier/) -- _Paper available upon request_
+ - Our open-source package (Python) ```deeplatent``` is a unified framework to get latent variables from large multimodal datasets (e.g., text, images, videos), see on [GitHub](https://github.com/PinchOfData/DeepLatent)
 
 
 ### Teaching
