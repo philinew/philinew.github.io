@@ -59,9 +59,9 @@ For all publications, please check my [Google Scholar profile](https://scholar.g
 
 
 #### Work in Progress
-  
+
 - Deep Latent Variable Models for Unstructured Data, with [Elliott Ash](https://elliottash.com/) and [Germain Gauthier](https://pinchofdata.github.io/germaingauthier/) -- _Paper available upon request_
- - Our open-source package (Python) ```deeplatent``` is a unified framework to get latent variables from large multimodal datasets (e.g., text, images, videos), see on [GitHub](https://github.com/PinchOfData/DeepLatent)
+  - Our open-source package (Python) ```deeplatent``` is a unified framework to get latent variables from large multimodal datasets (e.g., text, images, videos), see on [GitHub](https://github.com/PinchOfData/DeepLatent)
 
 
 ### Teaching
