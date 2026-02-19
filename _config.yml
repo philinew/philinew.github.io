@@ -2,3 +2,4 @@ theme: jekyll-theme-minimal
 title: Philine Widmer
 logo: /assets/img/profile3.jpg
 is_project_page: false
+include: [papers]
