@@ -27,7 +27,7 @@ You can check out the [programs](https://docs.google.com/document/d/1RPjo7G8dZ-b
 
 #### Paris Empirical Political Economics Seminar (PEPES)
 
-Together with colleagues from the Paris School of Economics and Sciences Po, we organize the PEPES seminar series. Check out our [line-up for 2025-26](https://sites.google.com/site/pepeseminar/) and join if you are in the Paris area. To be added to our mailing list, please sign up [here](forms.gle/m5m2SHgY93RTaiRWA).
+Together with colleagues from the Paris School of Economics and Sciences Po, we organize the PEPES seminar series. Check out our [line-up for 2025-26](https://sites.google.com/site/pepeseminar/) and join if you are in the Paris area. To be added to our mailing list, please sign up [here](https://forms.gle/m5m2SHgY93RTaiRWA).
 
 
 ### Research
@@ -35,7 +35,7 @@ Together with colleagues from the Paris School of Economics and Sciences Po, we 
 
 #### Selected Publications (all my publications are open-access)
 
-- The Political Effects of X's Recommender Algorithm, with [Germain Gauthier](https://pinchofdata.github.io/germaingauthier/), [Roland Hodler](https://sites.google.com/view/rolandhodler), and [Ekaterina Zhuravskaya](http://www.parisschoolofeconomics.com/zhuravskaya-ekaterina/) -- _Paper available upon request; funded by the Swiss National Science Foundation Grant No. 100018_215554_ -- _Forthcoming at Nature_
+- [The Political Effects of X's Recommender Algorithm](https://www.nature.com/articles/s41586-026-10098-2), with [Germain Gauthier](https://pinchofdata.github.io/germaingauthier/), [Roland Hodler](https://sites.google.com/view/rolandhodler), and [Ekaterina Zhuravskaya](http://www.parisschoolofeconomics.com/zhuravskaya-ekaterina/) -- _Funded by the Swiss National Science Foundation Grant No. 100018\_215554_ -- _Nature_
 
 - [Text Semantics Capture Political and Economic Narratives](https://arxiv.org/abs/2108.01720), with [Elliott Ash](https://elliottash.com/) and [Germain Gauthier](https://pinchofdata.github.io/germaingauthier/) -- _Political Analysis (2023)_
   - Our open-source package (Python) ```relatio``` extracts narrative statements from text, see on [GitHub](https://github.com/relatio-nlp/relatio) or [PyPI](https://pypi.org/project/relatio/)
@@ -50,6 +50,8 @@ For all publications, please check my [Google Scholar profile](https://scholar.g
 
 
 #### Working Papers
+
+- [Science under Threat? A Natural Experiment in Economics](https://philinew.github.io/papers/science_under_threat_19feb26.pdf), with [Dominic Rohner](https://sites.google.com/site/dprohner/) and [Oliver Vanden Eynde](https://www.parisschoolofeconomics.eu/en/persons/oliver-vanden-eynde/)
 
 - [Media Slant is Contagious](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3712218), with [Sergio Galletta](http://sergio-galletta.com/) and [Elliott Ash](https://elliottash.com/) -- _Conditionally Accepted at the Economic Journal_
 
@@ -66,15 +68,15 @@ For all publications, please check my [Google Scholar profile](https://scholar.g
 
 ### Teaching
 
-- The Political Economy of Artificial Intelligence (2025) -- _Paris School of Economics_
+- The Political Economy of Artificial Intelligence (2025, 2026) -- _Paris School of Economics_
+
+- Text-as-Data (2023, 2026) -- _LMU Munich, USI_
 
 - Media Economics (2024, 2025) -- _Paris School of Economics_
 
 - The Use of Artificial Intelligence in Economic Research (short course; 2024) -- _University of Hohenheim_
 
 - [Computational Social Science with Images and Audio](https://github.com/philinew/css_images_audio) (2023) -- _ETH Zurich_
-  
-- Text-as-Data (2023) -- _LMU Munich_
 
 - [Summer Institute in Computational Social Science](https://sicss.io/), see our location-specific [GitHub](https://github.com/computational-social-science-zurich/sicss-zurich) (2021) -- _University of St.Gallen and ETH Zurich_
 
