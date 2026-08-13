@@ -2,11 +2,11 @@
 
 My research covers topics related to the media, algorithms, and their relation to political and market institutions. Methodologically, I specialize in developing new approaches to quantify politically and economically relevant concepts from unstructured data -- such as text, images, and videos -- and implementing them in open-source software.
 
-I am an Assistant Professor at the [Paris School of Economics](https://www.parisschoolofeconomics.eu/en/).
+I am an Associate Professor at [UniDistance Suisse](https://unidistance.ch/en) and an Affiliated Researcher at the [Paris School of Economics](https://www.parisschoolofeconomics.eu/en/).
 
-Before, I worked as a Post-Doctoral researcher at ETH Zurich and the University of St.Gallen. I completed my Ph.D. in Economics at the [University of St.Gallen](https://www.unisg.ch/) (summa cum laude, 2023), supervised by [Roland Hodler](https://sites.google.com/view/rolandhodler). I visited the Paris School of Economics in 2021 and 2022, hosted by [Ekaterina Zhuravskaya](http://www.parisschoolofeconomics.com/zhuravskaya-ekaterina/). In 2019, I visited ETH Zurich, hosted by Elliott Ash.
+Before, I was an Assistant Professor at the Paris School of Economics (2024-2026) and a Post-Doctoral researcher at ETH Zurich. I completed my Ph.D. in Economics at the [University of St.Gallen](https://www.unisg.ch/) (summa cum laude, 2023), supervised by [Roland Hodler](https://sites.google.com/view/rolandhodler). I visited the Paris School of Economics in 2021 and 2022, hosted by [Ekaterina Zhuravskaya](http://www.parisschoolofeconomics.com/zhuravskaya-ekaterina/). In 2019, I visited ETH Zurich, hosted by Elliott Ash.
 
-[See my CV](https://tinyurl.com/mr2f2hxy) for more information.
+[See my CV](https://philinew.github.io/assets/docs/cv.pdf) for more information.
 
 
 ### News
@@ -14,15 +14,11 @@ Before, I worked as a Post-Doctoral researcher at ETH Zurich and the University 
 
 #### MPWZ-CEPR Text-as-Data-Workshop
 
-I co-organize the MPWZ-CEPR Text-as-Data Workshop series with [Elliott Ash](https://elliottash.com/) and [Sascha O. Becker](http://www.sobecker.de/). The most recent edition took place on 15-16 September. It marked the 10th anniversary of our series and featured special events, including a panel discussion on "AI in Economics Reviewing and Publishing."
-
-The next edition will take place on April 13th-14th, 2026. As always, our conference is online-only -- to bring the latest text-as-data research to anyone, free of cost.
- 
-Submit papers [here](https://docs.google.com/forms/d/1xayw4Flucx1EbjOAoipblrBYHq7bFbFevm8TDLtjmWs/edit) by March 13th, 2026.
+I co-organize the MPWZ-CEPR Text-as-Data Workshop series with [Elliott Ash](https://elliottash.com/) and [Sascha O. Becker](http://www.sobecker.de/). The next edition will take place on September 17th-18th, 2026. As always, our conference is online-only -- to bring the latest text-as-data research to anyone, free of cost.
 
 To stay updated about our call for papers and future programs, please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSej0XxApdIED_hMBotRBXTn9o7UkFWGHcGKUIDF9JTcKQW-Ag/viewform).
 
-You can check out the [programs](https://docs.google.com/document/d/1RPjo7G8dZ-btptolQK5YQHlWGbHTDAnaOqokgq2nqMQ/edit?tab=t.0) of all past editions.
+You can check out the [programs of all past editions](https://philinew.github.io/mpwz).
 
 
 #### Paris Empirical Political Economics Seminar (PEPES)
@@ -35,7 +31,8 @@ Together with colleagues from the Paris School of Economics and Sciences Po, we 
 
 #### Selected Publications (all my publications are open-access)
 
-- [The Political Effects of X's Recommender Algorithm](https://www.nature.com/articles/s41586-026-10098-2), with [Germain Gauthier](https://pinchofdata.github.io/germaingauthier/), [Roland Hodler](https://sites.google.com/view/rolandhodler), and [Ekaterina Zhuravskaya](http://www.parisschoolofeconomics.com/zhuravskaya-ekaterina/) -- _Funded by the Swiss National Science Foundation Grant No. 100018\_215554_ -- _Nature_
+- [The Political Effects of X's Feed Algorithm](https://www.nature.com/articles/s41586-026-10098-2), with [Germain Gauthier](https://pinchofdata.github.io/germaingauthier/), [Roland Hodler](https://sites.google.com/view/rolandhodler), and [Ekaterina Zhuravskaya](http://www.parisschoolofeconomics.com/zhuravskaya-ekaterina/) -- _Funded by the Swiss National Science Foundation Grant No. 100018\_215554_ -- _Nature (2026)_
+  - _Ranked #1 on Altmetric for six consecutive weeks, covered by 100+ news outlets worldwide_
 
 - [Text Semantics Capture Political and Economic Narratives](https://arxiv.org/abs/2108.01720), with [Elliott Ash](https://elliottash.com/) and [Germain Gauthier](https://pinchofdata.github.io/germaingauthier/) -- _Political Analysis (2023)_
   - Our open-source package (Python) ```relatio``` extracts narrative statements from text, see on [GitHub](https://github.com/relatio-nlp/relatio) or [PyPI](https://pypi.org/project/relatio/)
@@ -53,7 +50,7 @@ For all publications, please check my [Google Scholar profile](https://scholar.g
 
 - [Science under Threat? A Natural Experiment in Economics](https://philinew.github.io/papers/science_under_threat_19feb26.pdf), with [Dominic Rohner](https://sites.google.com/site/dprohner/) and [Oliver Vanden Eynde](https://www.parisschoolofeconomics.eu/en/persons/oliver-vanden-eynde/)
 
-- [Media Slant is Contagious](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3712218), with [Sergio Galletta](http://sergio-galletta.com/) and [Elliott Ash](https://elliottash.com/) -- _Conditionally Accepted at the Economic Journal_
+- [Media Slant is Contagious](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3712218), with Clémentine Abed Meraim, [Sergio Galletta](http://sergio-galletta.com/), and [Elliott Ash](https://elliottash.com/) -- _Conditionally Accepted at the Economic Journal_
 
 - [Who Owns the Online Media?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3969253), with [Ulrich Matter](https://umatter.github.io/)
 
