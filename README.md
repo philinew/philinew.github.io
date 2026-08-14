@@ -29,10 +29,10 @@ Together with colleagues from the Paris School of Economics and Sciences Po, we 
 ### Research
 
 
-#### Selected Publications (all my publications are open-access)
+#### Selected Publications
 
 - [The Political Effects of X's Feed Algorithm](https://www.nature.com/articles/s41586-026-10098-2), with [Germain Gauthier](https://pinchofdata.github.io/germaingauthier/), [Roland Hodler](https://sites.google.com/view/rolandhodler), and [Ekaterina Zhuravskaya](http://www.parisschoolofeconomics.com/zhuravskaya-ekaterina/) -- _Funded by the Swiss National Science Foundation Grant No. 100018\_215554_ -- _Nature (2026)_
-  - _Ranked #1 on Altmetric for several months, covered by 100+ news outlets worldwide_
+  - Ranked #1 on Altmetric for several months, covered by 100+ news outlets worldwide
 
 - [Text Semantics Capture Political and Economic Narratives](https://arxiv.org/abs/2108.01720), with [Elliott Ash](https://elliottash.com/) and [Germain Gauthier](https://pinchofdata.github.io/germaingauthier/) -- _Political Analysis (2023)_
   - Our open-source package (Python) ```relatio``` extracts narrative statements from text, see on [GitHub](https://github.com/relatio-nlp/relatio) or [PyPI](https://pypi.org/project/relatio/)
@@ -48,9 +48,9 @@ For all publications, please check my [Google Scholar profile](https://scholar.g
 
 #### Working Papers
 
-- [Science under Threat? A Natural Experiment in Economics](https://philinew.github.io/papers/science_under_threat_19feb26.pdf), with [Dominic Rohner](https://sites.google.com/site/dprohner/) and [Oliver Vanden Eynde](https://www.parisschoolofeconomics.eu/en/persons/oliver-vanden-eynde/)
-
 - [Media Slant is Contagious](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3712218), with Clémentine Abed Meraim, [Sergio Galletta](http://sergio-galletta.com/), and [Elliott Ash](https://elliottash.com/) -- _Conditionally Accepted at the Economic Journal_
+
+- [Science under Threat? A Natural Experiment in Economics](https://philinew.github.io/papers/science_under_threat_19feb26.pdf), with [Dominic Rohner](https://sites.google.com/site/dprohner/) and [Oliver Vanden Eynde](https://www.parisschoolofeconomics.eu/en/persons/oliver-vanden-eynde/)
 
 - [Who Owns the Online Media?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3969253), with [Ulrich Matter](https://umatter.github.io/)
 
