@@ -4,7 +4,7 @@ title: MPWZ-CEPR Text-as-Data Workshop
 
 ### MPWZ-CEPR Text-as-Data Workshop
 
-I co-organize the MPWZ-CEPR Text-as-Data Workshop series with [Elliott Ash](https://elliottash.com/) and [Sascha O. Becker](http://www.sobecker.de/). Our conference is online-only -- to bring the latest text-as-data research to anyone, free of cost.
+I co-organize the MPWZ-CEPR Text-as-Data Workshop series with [Elliott Ash](https://elliottash.com/) and [Sascha O. Becker](http://www.sobecker.de/). Our conference is online-only -- to bring the latest text-as-data research to anyone.
 
 The next edition will take place on September 17th-18th, 2026.
 

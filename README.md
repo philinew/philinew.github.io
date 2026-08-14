@@ -14,11 +14,11 @@ Before, I was an Assistant Professor at the Paris School of Economics (2024-2026
 
 #### MPWZ-CEPR Text-as-Data-Workshop
 
-I co-organize the MPWZ-CEPR Text-as-Data Workshop series with [Elliott Ash](https://elliottash.com/) and [Sascha O. Becker](http://www.sobecker.de/). The next edition will take place on September 17th-18th, 2026. As always, our conference is online-only -- to bring the latest text-as-data research to anyone, free of cost.
+I co-organize the MPWZ-CEPR Text-as-Data Workshop series with [Elliott Ash](https://elliottash.com/) and [Sascha O. Becker](http://www.sobecker.de/). The next edition will take place on September 17th-18th, 2026. As always, our conference is online-only -- to bring the latest text-as-data research to anyone.
 
 To stay updated about our call for papers and future programs, please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSej0XxApdIED_hMBotRBXTn9o7UkFWGHcGKUIDF9JTcKQW-Ag/viewform).
 
-You can check out the [programs of all past editions](https://philinew.github.io/mpwz).
+You can check out the <a href="https://philinew.github.io/mpwz" target="_blank" rel="noopener">programs of all past editions</a>.
 
 
 #### Paris Empirical Political Economics Seminar (PEPES)
