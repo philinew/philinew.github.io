@@ -4,7 +4,7 @@ My research covers topics related to the media, algorithms, and their relation t
 
 I am an Associate Professor at [UniDistance Suisse](https://unidistance.ch/en) and an Affiliated Researcher at the [Paris School of Economics](https://www.parisschoolofeconomics.eu/en/).
 
-Before, I was an Assistant Professor at the Paris School of Economics (2024-2026) and a Post-Doctoral researcher at ETH Zurich. I completed my Ph.D. in Economics at the [University of St.Gallen](https://www.unisg.ch/) (summa cum laude, 2023), supervised by [Roland Hodler](https://sites.google.com/view/rolandhodler). I visited the Paris School of Economics in 2021 and 2022, hosted by [Ekaterina Zhuravskaya](http://www.parisschoolofeconomics.com/zhuravskaya-ekaterina/). In 2019, I visited ETH Zurich, hosted by Elliott Ash.
+Before, I was an Assistant Professor at the Paris School of Economics (2024-2026) and a Post-Doctoral researcher at ETH Zurich. I completed my Ph.D. in Economics at the [University of St.Gallen](https://www.unisg.ch/) (summa cum laude, 2023), supervised by [Roland Hodler](https://sites.google.com/view/rolandhodler).
 
 [See my CV](https://philinew.github.io/assets/docs/cv.pdf) for more information.
 
