@@ -48,7 +48,7 @@ For all publications, please check my [Google Scholar profile](https://scholar.g
 
 #### Working Papers
 
-- [Media Slant is Contagious](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3712218), with Clémentine Abed Meraim, [Sergio Galletta](http://sergio-galletta.com/), and [Elliott Ash](https://elliottash.com/) -- _Conditionally Accepted at the Economic Journal_
+- [Media Slant is Contagious](https://arxiv.org/abs/2202.07269), with Clémentine Abed Meraim, [Sergio Galletta](http://sergio-galletta.com/), and [Elliott Ash](https://elliottash.com/) -- _Conditionally Accepted at the Economic Journal_
 
 - [Science under Threat? A Natural Experiment in Economics](https://philinew.github.io/papers/science_under_threat_19feb26.pdf), with [Dominic Rohner](https://sites.google.com/site/dprohner/) and [Oliver Vanden Eynde](https://www.parisschoolofeconomics.eu/en/persons/oliver-vanden-eynde/)
 
