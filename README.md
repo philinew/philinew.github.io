@@ -18,7 +18,7 @@ I co-organize the MPWZ-CEPR Text-as-Data Workshop series with [Elliott Ash](http
 
 To stay updated about our call for papers and future programs, please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSej0XxApdIED_hMBotRBXTn9o7UkFWGHcGKUIDF9JTcKQW-Ag/viewform).
 
-You can check out the <a href="https://philinew.github.io/mpwz" target="_blank" rel="noopener">programs of all past editions</a>.
+You can check out the <a href="https://philinew.github.io/mpwz" target="_blank" rel="noopener">programs of all editions</a>.
 
 
 #### Paris Empirical Political Economics Seminar (PEPES)
