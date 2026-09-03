@@ -12,7 +12,7 @@ To stay updated about our call for papers and future programs, please fill out t
 
 ### Programs
 
-- [12th Edition (September 2026)](https://philinew.github.io/mpwz12/) -- upcoming
+- **[12th Edition (September 2026)](https://philinew.github.io/mpwz12/) -- upcoming**
 - [11th Edition (April 2026)](https://philinew.github.io/assets/docs/mpwz_11th_program_april2026.pdf)
 - [10th Edition (September 2025)](https://docs.google.com/document/d/1eDFK5WxijZc9BXvzrtl_oyd_PT8pMIZ8NVxL_JFFZ0M/edit?tab=t.0#heading=h.qe70xm4csdjo) -- Anniversary Edition!
 - [9th Edition (April 2025)](https://docs.google.com/spreadsheets/u/0/d/10eYeI2Izc4M8XWQcccjd-GHr3_STcXF9kNQCaBeyp3A/edit)
