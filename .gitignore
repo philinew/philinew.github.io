@@ -1,2 +1,5 @@
 .DS_Store
 **/.DS_Store
+
+# program sources and internal notes: keep local, never publish
+mpwz12/_src/
