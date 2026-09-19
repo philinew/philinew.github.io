@@ -6,13 +6,14 @@ title: MPWZ-CEPR Text-as-Data Workshop
 
 I co-organize the MPWZ-CEPR Text-as-Data Workshop series with [Elliott Ash](https://elliottash.com/) and [Sascha O. Becker](http://www.sobecker.de/). Our conference is online-only -- to bring the latest text-as-data research to anyone.
 
-The next edition will take place on September 17th-18th, 2026.
+The 12th edition took place on September 17th-18th, 2026. The 13th edition will take place on April 8th-9th, 2027.
 
-To stay updated about our call for papers and future programs, please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSej0XxApdIED_hMBotRBXTn9o7UkFWGHcGKUIDF9JTcKQW-Ag/viewform).
+The call for papers will go out in mid-January 2027. To be notified when it opens (and to stay updated about future programs), please sign up via this [form](https://docs.google.com/forms/d/e/1FAIpQLSej0XxApdIED_hMBotRBXTn9o7UkFWGHcGKUIDF9JTcKQW-Ag/viewform).
 
 ### Programs
 
-- **[12th Edition (September 2026)](https://philinew.github.io/assets/docs/mpwz_12th_program_september2026.pdf) -- upcoming**
+- **13th Edition (April 8th-9th, 2027) -- upcoming**, call for papers in mid-January 2027
+- [12th Edition (September 2026)](https://philinew.github.io/assets/docs/mpwz_12th_program_september2026.pdf)
 - [11th Edition (April 2026)](https://philinew.github.io/assets/docs/mpwz_11th_program_april2026.pdf)
 - [10th Edition (September 2025)](https://docs.google.com/document/d/1eDFK5WxijZc9BXvzrtl_oyd_PT8pMIZ8NVxL_JFFZ0M/edit?tab=t.0#heading=h.qe70xm4csdjo) -- Anniversary Edition!
 - [9th Edition (April 2025)](https://docs.google.com/spreadsheets/u/0/d/10eYeI2Izc4M8XWQcccjd-GHr3_STcXF9kNQCaBeyp3A/edit)
