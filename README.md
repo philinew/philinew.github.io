@@ -34,6 +34,8 @@ Together with colleagues from the Paris School of Economics and Sciences Po, we 
 - [The Political Effects of X's Feed Algorithm](https://www.nature.com/articles/s41586-026-10098-2), with [Germain Gauthier](https://pinchofdata.github.io/germaingauthier/), [Roland Hodler](https://sites.google.com/view/rolandhodler), and [Ekaterina Zhuravskaya](http://www.parisschoolofeconomics.com/zhuravskaya-ekaterina/) -- _Funded by the Swiss National Science Foundation Grant No. 100018\_215554_ -- _Nature (2026)_
   - Ranked #1 on [Altmetric](https://www.nature.com/articles/s41586-026-10098-2/metrics) for several months, covered by 100+ news outlets worldwide
 
+- [Media Slant is Contagious](https://arxiv.org/abs/2202.07269), with Clémentine Abed Meraim, [Sergio Galletta](http://sergio-galletta.com/), and [Elliott Ash](https://elliottash.com/) -- _The Economic Journal (forthcoming)_
+
 - [Text Semantics Capture Political and Economic Narratives](https://arxiv.org/abs/2108.01720), with [Elliott Ash](https://elliottash.com/) and [Germain Gauthier](https://pinchofdata.github.io/germaingauthier/) -- _Political Analysis (2023)_
   - Our open-source package (Python) ```relatio``` extracts narrative statements from text, see on [GitHub](https://github.com/relatio-nlp/relatio) or [PyPI](https://pypi.org/project/relatio/)
 
@@ -47,8 +49,6 @@ For all publications, please check my [Google Scholar profile](https://scholar.g
 
 
 #### Working Papers
-
-- [Media Slant is Contagious](https://arxiv.org/abs/2202.07269), with Clémentine Abed Meraim, [Sergio Galletta](http://sergio-galletta.com/), and [Elliott Ash](https://elliottash.com/) -- _Conditionally Accepted at the Economic Journal_
 
 - [Science under Threat? A Natural Experiment in Economics](https://philinew.github.io/papers/science_under_threat_19feb26.pdf), with [Dominic Rohner](https://sites.google.com/site/dprohner/) and [Oliver Vanden Eynde](https://www.parisschoolofeconomics.eu/en/persons/oliver-vanden-eynde/)
 
