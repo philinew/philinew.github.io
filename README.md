@@ -11,19 +11,22 @@ Before, I was an Assistant Professor at the Paris School of Economics (2024-2026
 
 ### News
 
+- **Nov 2026:** A new version of [Science under Threat? A Natural Experiment in Economics](https://arxiv.org/abs/2608.14164) (with Dominic Rohner and Oliver Vanden Eynde) is out.
+- **Nov 2026:** I am looking forward to joining the CEPR Research Policy Network on AI and Democracy in December.
+
 
 #### MPWZ-CEPR Text-as-Data Workshop
 
 I co-organize the MPWZ-CEPR Text-as-Data Workshop series with [Elliott Ash](https://elliottash.com/) and [Sascha O. Becker](http://www.sobecker.de/). The 12th edition took place on September 17th-18th, 2026. The 13th edition will take place on April 8th-9th, 2027. As always, our conference is online-only -- to bring the latest text-as-data research to anyone.
 
-The call for papers will go out in mid-January 2027. To be notified when it opens (and to stay updated about future programs), please sign up via this [form](https://docs.google.com/forms/d/e/1FAIpQLSej0XxApdIED_hMBotRBXTn9o7UkFWGHcGKUIDF9JTcKQW-Ag/viewform).
+The call for papers will go out in December 2026. To be notified when it opens (and to stay updated about future programs), please sign up via this [form](https://docs.google.com/forms/d/e/1FAIpQLSej0XxApdIED_hMBotRBXTn9o7UkFWGHcGKUIDF9JTcKQW-Ag/viewform).
 
 You can check out the <a href="https://philinew.github.io/mpwz" target="_blank" rel="noopener">programs of all editions</a>.
 
 
 #### Paris Empirical Political Economics Seminar (PEPES)
 
-Together with colleagues from the Paris School of Economics and Sciences Po, we organize the PEPES seminar series. Check out our [line-up for 2025-26](https://sites.google.com/site/pepeseminar/) and join if you are in the Paris area. To be added to our mailing list, please sign up [here](https://forms.gle/m5m2SHgY93RTaiRWA).
+Together with colleagues from the Paris School of Economics and Sciences Po, we organize the PEPES seminar series. Check out our [line-up for 2026-27](https://sites.google.com/site/pepeseminar/) and join if you are in the Paris area. To be added to our mailing list, please sign up [here](https://forms.gle/m5m2SHgY93RTaiRWA).
 
 
 ### Research
@@ -51,7 +54,7 @@ For all publications, please check my [Google Scholar profile](https://scholar.g
 
 #### Working Papers
 
-- [Science under Threat? A Natural Experiment in Economics](https://philinew.github.io/papers/science_under_threat_19feb26.pdf), with [Dominic Rohner](https://sites.google.com/site/dprohner/) and [Oliver Vanden Eynde](https://www.parisschoolofeconomics.eu/en/persons/oliver-vanden-eynde/)
+- [Science under Threat? A Natural Experiment in Economics](https://arxiv.org/abs/2608.14164), with [Dominic Rohner](https://sites.google.com/site/dprohner/) and [Oliver Vanden Eynde](https://www.parisschoolofeconomics.eu/en/persons/oliver-vanden-eynde/)
 
 - [Who Owns the Online Media?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3969253), with [Ulrich Matter](https://umatter.github.io/)
 
