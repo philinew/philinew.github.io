@@ -73,7 +73,9 @@ main h3#news + ul li > p > strong:first-child::after { content: ":"; }
 
 /* ---------- Research page: paper entries ---------- */
 .page-research main h2 + ul { list-style: none; padding: 0; margin: 0 0 8px; }
-.page-research main h2 + ul > li { margin: 0 0 18px; }
+.page-research main h2 + ul > li { margin: 0 0 18px; color: #4a4a4a; }
+/* journal: written as _Journal_ in the Markdown; italic, semibold, muted burgundy so it stands out */
+.page-research main h2 + ul > li em { font-weight: 600; color: #7c2a35; }
 .page-research main h2 + ul > li > p { margin: 0; }
 .page-research main h2 + ul > li strong:first-child { font-weight: 600; color: var(--ink); }
 .page-research main h2 + ul > li strong:first-child a { color: var(--link); }
