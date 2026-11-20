@@ -4,3 +4,5 @@ logo: /assets/img/profile3.jpg
 is_project_page: false
 include: [papers]
 exclude: [mpwz12]
+plugins:
+  - jekyll-seo-tag

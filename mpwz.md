@@ -1,5 +1,6 @@
 ---
 title: MPWZ-CEPR Text-as-Data Workshop
+nav: events
 ---
 
 ### MPWZ-CEPR Text-as-Data Workshop

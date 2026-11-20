@@ -1,10 +1,11 @@
-<!-- start custom head snippets (overrides the theme's _includes/head-custom.html) -->
+<!-- start custom head snippets (included by _layouts/default.html) -->
 
 <!-- Setup Google Analytics -->
 {% include head-custom-google-analytics.html %}
 
-<!-- Open every link in a new tab, except links back to the homepage and anchors within the current page.
-     This also covers links that are added to README.md or mpwz.md later on. -->
+<!-- Links to other websites and to files (CV, PDFs) open in a new tab.
+     Pages of this site (Research, Teaching, Events, /mpwz) and anchors stay in the same tab.
+     This also covers links that are added to the Markdown pages later on. -->
 <script>
   document.addEventListener("DOMContentLoaded", function () {
     var links = document.querySelectorAll("a[href]");
@@ -18,9 +19,8 @@
       }
       if (url.protocol !== "http:" && url.protocol !== "https:") { continue; }
       var sameSite = url.host === window.location.host;
-      var isHome = sameSite && (url.pathname === "/" || url.pathname === "/index.html");
-      var isAnchorOnThisPage = sameSite && url.pathname === window.location.pathname && url.hash !== "";
-      if (isHome || isAnchorOnThisPage) { continue; }
+      var isFile = /\.[a-z0-9]{2,5}$/i.test(url.pathname) && !/\.html?$/i.test(url.pathname);
+      if (sameSite && !isFile) { continue; }
       a.setAttribute("target", "_blank");
       a.setAttribute("rel", "noopener");
     }

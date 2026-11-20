@@ -1,95 +1,103 @@
-### About me
+---
+nav: research
+---
 
-My research covers topics related to the media, algorithms, and their relation to political and market institutions. Methodologically, I specialize in developing new approaches to quantify politically and economically relevant concepts from unstructured data -- such as text, images, and videos -- and implementing them in open-source software.
+My research covers topics related to the media, algorithms, and their relation to political and market institutions. Methodologically, I specialize in developing new approaches to quantify politically and economically relevant concepts from unstructured data, such as text, images, and videos, and implementing them in open-source software.
 
-I am an Associate Professor at [UniDistance Suisse](https://unidistance.ch/en) and an Affiliated Researcher at the [Paris School of Economics](https://www.parisschoolofeconomics.eu/en/).
-
-Before, I was an Assistant Professor at the Paris School of Economics (2024-2026) and a Post-Doctoral researcher at ETH Zurich. I completed my Ph.D. in Economics at the [University of St.Gallen](https://www.unisg.ch/) (summa cum laude, 2023), supervised by [Roland Hodler](https://sites.google.com/view/rolandhodler).
-
-[See my CV](https://philinew.github.io/assets/docs/cv.pdf) for more information.
-
+I am an Associate Professor at [UniDistance Suisse](https://unidistance.ch/en) and an Affiliated Researcher at the [Paris School of Economics](https://www.parisschoolofeconomics.eu/en/). Before, I was an Assistant Professor at the Paris School of Economics (2024-2026) and a Post-Doctoral researcher at ETH Zurich. I completed my Ph.D. in Economics at the [University of St.Gallen](https://www.unisg.ch/) (summa cum laude, 2023), supervised by [Roland Hodler](https://sites.google.com/view/rolandhodler).
 
 ### News
 
-- **Nov 2026:** A new version of [Science under Threat? A Natural Experiment in Economics](https://arxiv.org/abs/2608.14164) (with Dominic Rohner and Oliver Vanden Eynde) is out.
-- **Nov 2026:** I am looking forward to joining the CEPR Research Policy Network on AI and Democracy in December.
+- **Nov 2026** A new version of [Science under Threat? A Natural Experiment in Economics](https://arxiv.org/abs/2608.14164) (with Dominic Rohner and Oliver Vanden Eynde) is out.
+- **Nov 2026** I am looking forward to joining the CEPR Research Policy Network on AI and Democracy in December.
 
 
-#### MPWZ-CEPR Text-as-Data Workshop
+## Selected Publications
 
-I co-organize the MPWZ-CEPR Text-as-Data Workshop series with [Elliott Ash](https://elliottash.com/) and [Sascha O. Becker](http://www.sobecker.de/). The 12th edition took place on September 17th-18th, 2026. The 13th edition will take place on April 8th-9th, 2027. As always, our conference is online-only -- to bring the latest text-as-data research to anyone.
+- **[The Political Effects of X's Feed Algorithm](https://www.nature.com/articles/s41586-026-10098-2)**<br>
+  with [Germain Gauthier](https://pinchofdata.github.io/germaingauthier/), [Roland Hodler](https://sites.google.com/view/rolandhodler), and [Ekaterina Zhuravskaya](http://www.parisschoolofeconomics.com/zhuravskaya-ekaterina/)<br>
+  _Nature_ (2026)<br>
+  Ranked #1 on [Altmetric](https://www.nature.com/articles/s41586-026-10098-2/metrics) for several months, covered by 100+ news outlets worldwide · Explained in a [video](https://www.youtube.com/watch?v=MHV2YZ_qfQw) by the Paris School of Economics · Funded by SNSF Grant No. 100018\_215554
 
-The call for papers will go out in December 2026. To be notified when it opens (and to stay updated about future programs), please sign up via this [form](https://docs.google.com/forms/d/e/1FAIpQLSej0XxApdIED_hMBotRBXTn9o7UkFWGHcGKUIDF9JTcKQW-Ag/viewform).
+    > We examine the impact of Twitter's/X's feed algorithm on political attitudes. We randomly assigned U.S.-based users to an algorithmic or chronological feed in an experiment. Users who switch from the chronological to the algorithmic feed shift their political opinions toward more conservative positions. By analyzing users' feeds, we confirm that the algorithm promotes more conservative content. We do not find symmetrical effects among users who switched from the algorithmic feed to the chronological feed.
 
-You can check out the <a href="https://philinew.github.io/mpwz" target="_blank" rel="noopener">programs of all editions</a>.
+- **[Media Slant is Contagious](https://arxiv.org/abs/2202.07269)** `forthcoming`<br>
+  with Clémentine Abed Meraim, [Sergio Galletta](http://sergio-galletta.com/), and [Elliott Ash](https://elliottash.com/)<br>
+  _The Economic Journal_
 
+    > We examine the diffusion of media slant. We document the influence of Fox News Channel (FNC) on the partisan slant of local newspapers in the U.S. from 1995-2008. We measure the political slant of newspapers by scaling their articles to Republicans' and Democrats' speeches in Congress. Using channel positioning as an instrument for viewership, we find that higher FNC viewership shifts local newspaper content to the right.
 
-#### Paris Empirical Political Economics Seminar (PEPES)
+- **[Aligning Large Language Models with Diverse Political Viewpoints](https://aclanthology.org/2024.emnlp-main.412/)**<br>
+  with [Dominik Stammbach](https://dominik-stammbach.github.io/), [Eunjung Cho](https://scholar.google.com/citations?user=HOKn5HIAAAAJ&hl=en), [Caglar Gulcehre](https://www.caglarg.com/), and [Elliott Ash](https://elliottash.com/)<br>
+  _Proceedings of the Conference on Empirical Methods in Natural Language Processing_ (2024)
 
-Together with colleagues from the Paris School of Economics and Sciences Po, we organize the PEPES seminar series. Check out our [line-up for 2026-27](https://sites.google.com/site/pepeseminar/) and join if you are in the Paris area. To be added to our mailing list, please sign up [here](https://forms.gle/m5m2SHgY93RTaiRWA).
+    > Large language models such as ChatGPT exhibit political biases. If users query them about political information, they often take a normative stance. To overcome this, we align LLMs with diverse political viewpoints from 100,000 comments written by candidates running for national parliament in Switzerland. Models aligned with these data can generate more accurate political viewpoints from Swiss parties, compared to commercial models.
 
+- **[Text Semantics Capture Political and Economic Narratives](https://arxiv.org/abs/2108.01720)**<br>
+  with [Elliott Ash](https://elliottash.com/) and [Germain Gauthier](https://pinchofdata.github.io/germaingauthier/)<br>
+  _Political Analysis_ (2024)<br>
+  Python package [relatio](https://github.com/relatio-nlp/relatio)
 
-### Research
+    > We develop a new text-as-data method. Social scientists' interest in how narratives influence politics or the economy has surged. Yet, it remains challenging to identify narratives in large text corpora. Our unsupervised method achieves this goal by identifying entities and mapping the relations between them.
 
+- **[Ministers Engage in Favoritism Too](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3818193)**<br>
+  with Noémie Zurlinden<br>
+  _Journal of Public Economics_ (2022)
 
-#### Selected Publications
+    > We provide large-scale evidence for favoritism by African cabinet members. Using disaggregated health surveys and novel data on cabinet members' birthplaces (from newspapers and other online text sources), we compare siblings to get causal estimates. Neonates' and infants' mortality is lower when the current health minister was born in their province.
 
-- [The Political Effects of X's Feed Algorithm](https://www.nature.com/articles/s41586-026-10098-2), with [Germain Gauthier](https://pinchofdata.github.io/germaingauthier/), [Roland Hodler](https://sites.google.com/view/rolandhodler), and [Ekaterina Zhuravskaya](http://www.parisschoolofeconomics.com/zhuravskaya-ekaterina/) -- _Funded by the Swiss National Science Foundation Grant No. 100018\_215554_ -- _Nature (2026)_
-  - Ranked #1 on [Altmetric](https://www.nature.com/articles/s41586-026-10098-2/metrics) for several months, covered by 100+ news outlets worldwide
-  - Explained in a [video](https://www.youtube.com/watch?v=MHV2YZ_qfQw) produced by the Paris School of Economics
-
-- [Media Slant is Contagious](https://arxiv.org/abs/2202.07269), with Clémentine Abed Meraim, [Sergio Galletta](http://sergio-galletta.com/), and [Elliott Ash](https://elliottash.com/) -- _The Economic Journal (forthcoming)_
-
-- [Text Semantics Capture Political and Economic Narratives](https://arxiv.org/abs/2108.01720), with [Elliott Ash](https://elliottash.com/) and [Germain Gauthier](https://pinchofdata.github.io/germaingauthier/) -- _Political Analysis (2023)_
-  - Our open-source package (Python) ```relatio``` extracts narrative statements from text, see on [GitHub](https://github.com/relatio-nlp/relatio) or [PyPI](https://pypi.org/project/relatio/)
-
-- [Ministers Engage in Favoritism Too](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3818193), with Noémie Zurlinden -- _Journal of Public Economics (2022)_
-
-- [Aligning Large Language Models with Diverse Political Viewpoints](https://aclanthology.org/2024.emnlp-main.412/), with [Dominik Stammbach](https://dominik-stammbach.github.io/), [Eunjung Cho](https://scholar.google.com/citations?user=HOKn5HIAAAAJ&hl=en), [Caglar Gulcehre](https://www.caglarg.com/), and [Elliott Ash](https://elliottash.com/) -- _Proceedings of the Conference on Empirical Methods in Natural Language Processing (2024)_
-
-- [The Dark Side of the Web: Towards Understanding Various Data Sources in Cyber Threat Intelligence](https://www.computer.org/csdl/proceedings-article/euros-pw/2025/954600a079/29EHC4TEtAA), with [Noè Canevascini](https://scholar.google.com/citations?user=kowe9scAAAAJ), [Irdin Pekaric](https://www.irdinpekaric.com/), [Pavel Laskov](https://www.uni.li/en/pavel.laskov), [Saskia Laura Schröer](https://scholar.google.com/citations?user=-re240wAAAAJ) -- _IEEE European Symposium on Security and Privacy Workshops (2025)_
-
-For all publications, please check my [Google Scholar profile](https://scholar.google.com/citations?user=1cyoOOYAAAAJ&hl=en).
-
-
-#### Working Papers
-
-- [Science under Threat? A Natural Experiment in Economics](https://arxiv.org/abs/2608.14164), with [Dominic Rohner](https://sites.google.com/site/dprohner/) and [Oliver Vanden Eynde](https://www.parisschoolofeconomics.eu/en/persons/oliver-vanden-eynde/)
-
-- [Who Owns the Online Media?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3969253), with [Ulrich Matter](https://umatter.github.io/)
-
-- [Is Propaganda Front-Page News?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4686681)
+All publications: [Google Scholar profile](https://scholar.google.com/citations?user=1cyoOOYAAAAJ&hl=en)
+{: .more}
 
 
-#### Work in Progress
+## Working Papers
 
-- Deep Latent Variable Models for Unstructured Data, with [Elliott Ash](https://elliottash.com/) and [Germain Gauthier](https://pinchofdata.github.io/germaingauthier/) -- _Paper available upon request_
-  - Our open-source package (Python) ```deeplatent``` is a unified framework to get latent variables from large multimodal datasets (e.g., text, images, videos), see on [GitHub](https://github.com/PinchOfData/DeepLatent)
+- **[Science under Threat? A Natural Experiment in Economics](https://arxiv.org/abs/2608.14164)**<br>
+  with [Dominic Rohner](https://sites.google.com/site/dprohner/) and [Oliver Vanden Eynde](https://www.parisschoolofeconomics.eu/en/persons/oliver-vanden-eynde/)
 
+    > We exploit a natural experiment, the U.S. government's "blacklist" of undesirable words released in early 2025, to study whether academics react to political pressure. We find a sharp reduction in the use of banned words among economists at universities relying heavily on NSF funding, particularly for content related to gender, race, and environment.
 
-### Teaching
+- **[Who Owns the Online Media?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3969253)**<br>
+  with [Ulrich Matter](https://umatter.github.io/)
 
-- The Political Economy of Artificial Intelligence (2025, 2026) -- _Paris School of Economics_
+    > Who owns a newspaper is relevant from a political viewpoint, since newspaper ownership comes with benefits beyond the financial returns, such as influence on democratic decision-making. We map detailed ownership networks behind thousands of online news websites in the U.S., Canada, and Europe. We show that ownership matters for content and that outlets tend to have one ultimate owner or, otherwise, highly diversified ownership.
 
-- Text-as-Data (2023, 2026) -- _LMU Munich, USI_
+- **[Is Propaganda Front-Page News?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4686681)**<br>
+  single-authored
 
-- Media Economics (2024, 2025) -- _Paris School of Economics_
-
-- The Use of Artificial Intelligence in Economic Research (short course; 2024) -- _University of Hohenheim_
-
-- [Computational Social Science with Images and Audio](https://github.com/philinew/css_images_audio) (2023) -- _ETH Zurich_
-
-- [Summer Institute in Computational Social Science](https://sicss.io/), see our location-specific [GitHub](https://github.com/computational-social-science-zurich/sicss-zurich) (2021) -- _University of St.Gallen and ETH Zurich_
+    > I study the mechanics of subtle censorship in Chinese online news. Using a sample of 1M articles, I construct text-based measures of their alignment with the regime's perspective. More aligned articles tend to feature on their outlet's front-page rather than elsewhere on the website. My analyses point to a censorship strategy differentiating news products between an inattentive majority and an attentive minority.
 
 
-<!-- #### Teaching Assistance (University of St.Gallen) -->
+## Work in Progress
 
-<!-- Failed States and Nationbuilding (2021-2023) -->
-  
-<!-- - Public Economics (2017-2022) -->
-  
-<!-- - Data Science (2019-2021) -->
-  
-<!-- - Political Economics (2020) -->
-  
-<!-- - Introduction to Microeconomics (2017-2018) -->
+- **Towards a Cheap Personalization of Political Messaging with Large Language Models?** `draft on request`<br>
+  with [Tiffany Kreutschy](https://sites.google.com/view/tiffanykreutschy/biographie)<br>
+  An experiment with U.S. respondents on whether personalizing LLM-generated political posts increases persuasion, and how LLM biases affect it.<br>
+  Funded by SNSF Spark Grant No. 221092
+
+- **Deep Latent Variable Models for Unstructured Data** `draft on request`<br>
+  with [Elliott Ash](https://elliottash.com/) and [Germain Gauthier](https://pinchofdata.github.io/germaingauthier/)<br>
+  Topic models that use language representations and document metadata, for exploration, causal inference, and prediction on large multimodal corpora. Python package [deeplatent](https://github.com/PinchOfData/DeepLatent).
+
+- **The Neural Ideal Point Model**<br>
+  with [Germain Gauthier](https://pinchofdata.github.io/germaingauthier/) and [Hugo Subtil](https://sites.google.com/view/hugosubtil/)<br>
+  A deep learning framework to estimate ideal points from texts, images, audio, and video, for example political ad videos on Facebook and Instagram in the 2024 US elections.
+
+- **AI Chatbots as a Source of Political Information: Evidence from Benin**<br>
+  with Joel Eke, [Eugenia Frezza](https://eufrezza.github.io/), Arnault Gombert, [Sergei Guriev](https://sites.google.com/site/sguriev/), and [Ekaterina Zhuravskaya](http://www.parisschoolofeconomics.com/zhuravskaya-ekaterina/)<br>
+  A randomized controlled trial with university students in Benin around the April 2026 presidential election. Fieldwork concluded in July 2026.
+
+- **The Politics of Netflix: Political and Social Dimensions of Streaming Content**<br>
+  with [Roland Hodler](https://sites.google.com/view/rolandhodler), David Kündig, and Julius Reinhold<br>
+  Political beliefs and gender norms in streaming content, combining web-mined data on available titles with computer vision and NLP annotations.<br>
+  Funded by SNSF Grant No. 10008028
+
+- **Gendered Social Media Consumption and its Consequences**<br>
+  with [Germain Gauthier](https://pinchofdata.github.io/germaingauthier/), [Roland Hodler](https://sites.google.com/view/rolandhodler), and Katharina Kaeppel<br>
+  Gender differences in social media consumption and their consequences for political beliefs and gender norms, studied in a field experiment with US-based Instagram users.
+
+
+## Software
+
+- **relatio** (Python): extracts narrative statements from text · [GitHub](https://github.com/relatio-nlp/relatio) · [PyPI](https://pypi.org/project/relatio/)
+- **deeplatent** (Python): latent variables from large multimodal datasets (text, images, videos) · [GitHub](https://github.com/PinchOfData/DeepLatent)

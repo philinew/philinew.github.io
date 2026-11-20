@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="{{ site.lang | default: "en-US" }}">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+{% seo %}
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,400;0,600;0,700;1,400&family=Source+Serif+4:opsz,wght@8..60,600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}?v=1">
+{% include head-custom.html %}
+</head>
+<body class="page-{{ page.nav | default: 'other' }}">
+  <div class="wrap">
+
+    <aside class="side">
+      <a class="photo" href="{{ '/' | relative_url }}"><img src="{{ '/assets/img/profile3.jpg' | relative_url }}" alt="Philine Widmer"></a>
+      <div class="who">
+        <p class="name"><a href="{{ '/' | relative_url }}">Philine Widmer</a></p>
+        <div class="pos">
+          <img class="logo logo-ud" src="{{ '/assets/img/logos/unidistance.png' | relative_url }}" alt="UniDistance Suisse logo">
+          <p>Associate Professor<br>UniDistance Suisse</p>
+        </div>
+        <div class="pos">
+          <img class="logo logo-pse" src="{{ '/assets/img/logos/pse.png' | relative_url }}" alt="Paris School of Economics logo">
+          <p>Affiliated Researcher<br>Paris School of Economics</p>
+        </div>
+      </div>
+      <nav class="links" aria-label="Contact and profiles">
+        <a href="mailto:philine.widmer@psemail.eu">Email</a>
+        <a href="https://scholar.google.com/citations?user=1cyoOOYAAAAJ&amp;hl=en">Google Scholar</a>
+        <a href="https://github.com/philinew">GitHub</a>
+        <a href="{{ '/assets/docs/cv.pdf' | relative_url }}">CV (PDF)</a>
+      </nav>
+    </aside>
+
+    <main>
+      <nav class="tabs" aria-label="Main">
+        <a href="{{ '/' | relative_url }}"{% if page.nav == 'research' %} class="on" aria-current="page"{% endif %}>Research</a>
+        <a href="{{ '/teaching' | relative_url }}"{% if page.nav == 'teaching' %} class="on" aria-current="page"{% endif %}>Teaching</a>
+        <a href="{{ '/events' | relative_url }}"{% if page.nav == 'events' %} class="on" aria-current="page"{% endif %}>Events</a>
+        <a href="{{ '/assets/docs/cv.pdf' | relative_url }}">CV</a>
+      </nav>
+
+{{ content }}
+    </main>
+
+  </div>
+
+  <script>
+    // Abstracts: a quote block inside a paper entry ("> ..." in the Markdown) becomes a fold-out.
+    // Status tags: inline code in a paper entry (`forthcoming`, `draft on request`) is shown as a small label.
+    document.addEventListener("DOMContentLoaded", function () {
+      var quotes = document.querySelectorAll("main li > blockquote");
+      for (var i = 0; i < quotes.length; i++) {
+        (function (bq, n) {
+          bq.id = "abstract-" + n;
+          bq.hidden = true;
+          var b = document.createElement("button");
+          b.type = "button";
+          b.className = "abs-toggle";
+          b.textContent = "Abstract";
+          b.setAttribute("aria-expanded", "false");
+          b.setAttribute("aria-controls", bq.id);
+          b.addEventListener("click", function () {
+            var open = bq.hidden;
+            bq.hidden = !open;
+            b.setAttribute("aria-expanded", open ? "true" : "false");
+          });
+          bq.parentNode.insertBefore(b, bq);
+        })(quotes[i], i + 1);
+      }
+      var tags = document.querySelectorAll("main li code");
+      for (var j = 0; j < tags.length; j++) {
+        if (/draft|request/i.test(tags[j].textContent)) { tags[j].className = "muted"; }
+      }
+    });
+  </script>
+</body>
+</html>
