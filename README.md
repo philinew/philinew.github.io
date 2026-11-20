@@ -1,5 +1,6 @@
 ---
 nav: research
+permalink: /
 ---
 
 My research covers topics related to the media, algorithms, and their relation to political and market institutions. Methodologically, I specialize in developing new approaches to quantify politically and economically relevant concepts from unstructured data, such as text, images, and videos, and implementing them in open-source software.
