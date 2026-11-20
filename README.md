@@ -62,10 +62,10 @@ All publications: [Google Scholar profile](https://scholar.google.com/citations?
 
     > Who owns a newspaper is relevant from a political viewpoint, since newspaper ownership comes with benefits beyond the financial returns, such as influence on democratic decision-making. We map detailed ownership networks behind thousands of online news websites in the U.S., Canada, and Europe. We show that ownership matters for content and that outlets tend to have one ultimate owner or, otherwise, highly diversified ownership.
 
-- **[Is Propaganda Front-Page News?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4686681)**<br>
+- **[Buried in the Back-Pages: Subtle Censorship through News Placement](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4686681)**<br>
   single-authored
 
-    > I study the mechanics of subtle censorship in Chinese online news. Using a sample of 1M articles, I construct text-based measures of their alignment with the regime's perspective. More aligned articles tend to feature on their outlet's front-page rather than elsewhere on the website. My analyses point to a censorship strategy differentiating news products between an inattentive majority and an attentive minority.
+    > When information is abundant, attention is the binding constraint. Censors can then limit what most people read by making some content less accessible. We study one such tool: within-outlet news placement. Using one million articles from 53 Chinese online news outlets (2020-2022), we find that front-page stories are systematically less likely to feature potentially sensitive content than back-page stories, and we provide evidence that this reflects censorship rather than catering to reader preferences.
 
 
 ## Work in Progress
