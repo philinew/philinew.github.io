@@ -34,7 +34,7 @@ nav: teaching
 - **The Use of Artificial Intelligence in Economic Research** _2024_<br>
   University of Hohenheim (short course)
 - **[Summer Institute in Computational Social Science](https://sicss.io/)** _2021_<br>
-  University of St.Gallen and ETH Zurich · [GitHub](https://github.com/computational-social-science-zurich/sicss-zurich)
+  University of St.Gallen and ETH Zurich ([GitHub](https://github.com/computational-social-science-zurich/sicss-zurich))
 
 
 <!-- #### Teaching Assistance (University of St.Gallen) -->

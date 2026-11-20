@@ -18,13 +18,13 @@ I am an Associate Professor at [UniDistance Suisse](https://unidistance.ch/en) a
 - **[The Political Effects of X's Feed Algorithm](https://www.nature.com/articles/s41586-026-10098-2)**<br>
   with [Germain Gauthier](https://pinchofdata.github.io/germaingauthier/), [Roland Hodler](https://sites.google.com/view/rolandhodler), and [Ekaterina Zhuravskaya](http://www.parisschoolofeconomics.com/zhuravskaya-ekaterina/)<br>
   _Nature_ (2026)<br>
-  Ranked #1 on [Altmetric](https://www.nature.com/articles/s41586-026-10098-2/metrics) for several months, covered by 100+ news outlets worldwide · Explained in a [video](https://www.youtube.com/watch?v=MHV2YZ_qfQw) by the Paris School of Economics · Funded by SNSF Grant No. 100018\_215554
+  Ranked #1 on [Altmetric](https://www.nature.com/articles/s41586-026-10098-2/metrics) for several months, covered by 100+ news outlets worldwide. Explained in a [video](https://www.youtube.com/watch?v=MHV2YZ_qfQw) produced by the Paris School of Economics. Funded by SNSF Grant No. 100018\_215554.
 
     > We examine the impact of Twitter's/X's feed algorithm on political attitudes. We randomly assigned U.S.-based users to an algorithmic or chronological feed in an experiment. Users who switch from the chronological to the algorithmic feed shift their political opinions toward more conservative positions. By analyzing users' feeds, we confirm that the algorithm promotes more conservative content. We do not find symmetrical effects among users who switched from the algorithmic feed to the chronological feed.
 
-- **[Media Slant is Contagious](https://arxiv.org/abs/2202.07269)** `forthcoming`<br>
+- **[Media Slant is Contagious](https://arxiv.org/abs/2202.07269)**<br>
   with Clémentine Abed Meraim, [Sergio Galletta](http://sergio-galletta.com/), and [Elliott Ash](https://elliottash.com/)<br>
-  _The Economic Journal_
+  _The Economic Journal_ (forthcoming)
 
     > We examine the diffusion of media slant. We document the influence of Fox News Channel (FNC) on the partisan slant of local newspapers in the U.S. from 1995-2008. We measure the political slant of newspapers by scaling their articles to Republicans' and Democrats' speeches in Congress. Using channel positioning as an instrument for viewership, we find that higher FNC viewership shifts local newspaper content to the right.
 
@@ -100,5 +100,5 @@ All publications: [Google Scholar profile](https://scholar.google.com/citations?
 
 ## Software
 
-- **relatio** (Python): extracts narrative statements from text · [GitHub](https://github.com/relatio-nlp/relatio) · [PyPI](https://pypi.org/project/relatio/)
-- **deeplatent** (Python): latent variables from large multimodal datasets (text, images, videos) · [GitHub](https://github.com/PinchOfData/DeepLatent)
+- **relatio** (Python): extracts narrative statements from text ([GitHub](https://github.com/relatio-nlp/relatio), [PyPI](https://pypi.org/project/relatio/))
+- **deeplatent** (Python): latent variables from large multimodal datasets (text, images, videos) ([GitHub](https://github.com/PinchOfData/DeepLatent))

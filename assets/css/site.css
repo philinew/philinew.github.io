@@ -1,16 +1,12 @@
-/* philinew.github.io: layout and styles (redesign November 2026).
-   Pages stay plain Markdown; this file does the styling. */
+/* philinew.github.io: layout and styles (November 2026).
+   One font family, dark text, one link color. Pages stay plain Markdown. */
 
 :root {
-  --ink: #1f2328;
-  --ink-2: #3d444d;
-  --muted: #57606a;
-  --line: #e3e7eb;
-  --line-2: #d8dee4;
-  --soft: #f6f8fa;
-  --link: #0b57a4;
-  --accent: #8a1c2b;
-  --accent-soft: #f6e7ea;
+  --ink: #1a1a1a;
+  --text: #2e2e2e;
+  --muted: #6a6a6a;
+  --line: #e6e6e6;
+  --link: #1d5ea8;
 }
 
 * { box-sizing: border-box; }
@@ -18,7 +14,7 @@ html { -webkit-text-size-adjust: 100%; }
 body {
   margin: 0;
   background: #fff;
-  color: var(--ink);
+  color: var(--text);
   font-family: "Source Sans 3", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 17px;
   line-height: 1.55;
@@ -28,154 +24,97 @@ a:hover { text-decoration: underline; }
 img { max-width: 100%; }
 
 .wrap {
-  max-width: 1100px;
+  max-width: 1060px;
   margin: 0 auto;
-  padding: 44px 32px 64px;
+  padding: 48px 32px 64px;
   display: grid;
   grid-template-columns: 220px minmax(0, 1fr);
-  column-gap: 64px;
+  column-gap: 60px;
 }
 
 /* ---------- sidebar ---------- */
 .side { align-self: start; position: sticky; top: 32px; }
-.side .photo img { width: 180px; border-radius: 10px; display: block; }
-.side .name {
-  font-family: "Source Serif 4", Charter, Georgia, serif;
-  font-size: 29px; font-weight: 600; line-height: 1.2;
-  margin: 18px 0 16px;
-}
+.side .photo img { width: 180px; border-radius: 4px; display: block; }
+.side .name { font-size: 26px; font-weight: 600; line-height: 1.2; margin: 18px 0 16px; }
 .side .name a { color: var(--ink); }
 .side .name a:hover { text-decoration: none; }
-.side .pos { margin: 0 0 18px; }
-.side .pos p { margin: 0; font-size: 15.5px; line-height: 1.4; color: var(--ink-2); }
+.side .pos { margin: 0 0 16px; }
+.side .pos p { margin: 0; font-size: 15.5px; line-height: 1.4; }
 .side .logo { display: block; margin: 0 0 8px; }
 /* both logos centered on the photo (180px wide) */
 .side .logo-ud { width: 150px; margin-left: 15px; }
 .side .logo-pse { width: 54px; margin-left: 63px; }
-.side .links { margin-top: 18px; padding-top: 12px; border-top: 1px solid var(--line); }
-.side .links a { display: block; margin: 5px 0; font-size: 15.5px; font-weight: 600; }
+.side .links { margin-top: 18px; }
+.side .links a { display: block; margin: 4px 0; font-size: 15.5px; }
 
 /* ---------- main column ---------- */
 main { min-width: 0; }
-.tabs { display: flex; gap: 32px; margin: 0 0 28px; border-bottom: 1px solid var(--line-2); }
-.tabs a {
-  color: var(--muted); font-weight: 600; font-size: 17px;
-  padding: 4px 0 10px; margin-bottom: -1px; border-bottom: 3px solid transparent;
-}
+.tabs { display: flex; gap: 28px; margin: 0 0 30px; border-bottom: 1px solid var(--line); }
+.tabs a { color: var(--muted); padding: 4px 0 9px; margin-bottom: -1px; border-bottom: 2px solid transparent; }
 .tabs a:hover { color: var(--ink); text-decoration: none; }
-.tabs a.on { color: var(--ink); border-bottom-color: var(--accent); }
+.tabs a.on { color: var(--ink); border-bottom-color: var(--ink); }
 
-main h2 {
-  font-family: "Source Serif 4", Charter, Georgia, serif;
-  font-size: 25px; font-weight: 600; line-height: 1.25;
-  margin: 38px 0 14px;
-}
-main h3 {
-  font-family: "Source Serif 4", Charter, Georgia, serif;
-  font-size: 21px; font-weight: 600; line-height: 1.3;
-  margin: 30px 0 10px;
-}
-main h4 { font-size: 13px; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; color: var(--muted); margin: 14px 0 4px; }
+main h2 { font-size: 22px; font-weight: 600; line-height: 1.3; color: var(--ink); margin: 36px 0 12px; }
+main h3 { font-size: 19px; font-weight: 600; line-height: 1.3; color: var(--ink); margin: 28px 0 8px; }
+main h4 { font-size: 16px; font-weight: 600; color: var(--ink); margin: 10px 0 4px; }
 main p { margin: 0 0 12px; }
 main ul { margin: 0 0 14px; padding-left: 22px; }
 main > :first-child, main .tabs + * { margin-top: 0; }
 
-/* ---------- News box (### News followed by a list) ---------- */
-main h3#news {
-  margin: 24px 0 0; padding: 14px 20px 6px;
-  background: var(--soft); border-radius: 10px 10px 0 0;
-  font-size: 22px;
-}
-main h3#news + ul {
-  margin: 0 0 10px; padding: 1px 20px 12px;
-  background: var(--soft); border-radius: 0 0 10px 10px;
-  list-style: none;
-}
-main h3#news + ul li { position: relative; padding-left: 88px; margin: 5px 0; font-size: 16px; }
-main h3#news + ul li > strong:first-child,
-main h3#news + ul li > p > strong:first-child {
-  position: absolute; left: 0; top: 1px; width: 80px;
-  color: var(--muted); font-size: 14.5px; font-weight: 600;
-}
+/* ---------- News (### News followed by a list) ---------- */
+main h3#news { margin: 26px 0 6px; }
+main h3#news + ul { list-style: none; padding: 0; }
+main h3#news + ul li { margin: 3px 0; }
 main h3#news + ul li p { margin: 0; }
+main h3#news + ul li > strong:first-child,
+main h3#news + ul li > p > strong:first-child { font-weight: 600; color: var(--ink); }
+main h3#news + ul li > strong:first-child::after,
+main h3#news + ul li > p > strong:first-child::after { content: ":"; }
 
 /* ---------- Research page: paper entries ---------- */
 .page-research main h2 + ul { list-style: none; padding: 0; margin: 0 0 8px; }
-.page-research main h2 + ul > li {
-  margin: 0 0 20px; color: var(--muted); font-size: 15.5px; line-height: 1.5;
-}
+.page-research main h2 + ul > li { margin: 0 0 18px; }
 .page-research main h2 + ul > li > p { margin: 0; }
-.page-research main h2 + ul > li strong:first-child,
-.page-research main h2 + ul > li > p:first-child strong:first-child {
-  color: var(--ink); font-size: 17.5px; font-weight: 600; line-height: 1.35;
-}
-.page-research main h2 + ul > li strong:first-child a { color: var(--link); text-decoration: none; }
-.page-research main h2 + ul > li a { color: var(--muted); text-decoration: underline; text-decoration-color: #c9d1d9; text-underline-offset: 2px; }
-.page-research main h2 + ul > li a:hover { color: var(--ink); }
-/* venue: written as _Venue_ in the Markdown */
-.page-research main h2 + ul > li em { font-style: normal; font-weight: 700; color: var(--accent); }
-/* status tags: written as `forthcoming` or `draft on request` */
-main li code {
-  display: inline-block; margin-left: 8px; padding: 1px 9px; vertical-align: 2px;
-  font-family: inherit; font-size: 12.5px; font-weight: 700; line-height: 1.5; white-space: nowrap;
-  border-radius: 999px; background: var(--accent-soft); color: var(--accent);
-}
-main li code.muted { background: #eef1f4; color: var(--muted); }
+.page-research main h2 + ul > li strong:first-child { font-weight: 600; color: var(--ink); }
+.page-research main h2 + ul > li strong:first-child a { color: var(--link); }
+/* co-authors and other links inside an entry: text color with a light underline */
+.page-research main h2 + ul > li a { color: inherit; text-decoration: underline; text-decoration-color: #c8c8c8; text-underline-offset: 2px; }
+.page-research main h2 + ul > li strong:first-child a { text-decoration: none; }
+.page-research main h2 + ul > li strong:first-child a:hover { text-decoration: underline; }
+.page-research main h2 + ul > li strong:first-child a { color: var(--link); }
+/* status notes, written as `draft on request`: shown as "(draft on request)" */
+main li code { font-family: inherit; font-size: inherit; font-style: italic; color: var(--muted); background: none; padding: 0; margin-left: 4px; }
+main li code::before { content: "("; }
+main li code::after { content: ")"; }
 /* abstract fold-outs */
 .abs-toggle {
   display: inline-block; margin: 2px 0 0; padding: 0; border: 0; background: none; cursor: pointer;
-  font: inherit; font-size: 14.5px; font-weight: 600; color: var(--link);
+  font: inherit; font-size: 15.5px; color: var(--link);
 }
-.abs-toggle::after { content: " \25B8"; }
-.abs-toggle[aria-expanded="true"]::after { content: " \25BE"; }
-main li > blockquote {
-  margin: 6px 0 0; padding: 8px 12px;
-  background: var(--soft); border-left: 3px solid var(--line-2);
-  font-size: 14.5px; color: var(--ink-2);
-}
+.abs-toggle:hover { text-decoration: underline; }
+main li > blockquote { margin: 6px 0 4px; padding: 0 0 0 14px; border-left: 2px solid var(--line); font-size: 15.5px; }
 main li > blockquote p { margin: 0; }
-.page-research p.more { font-size: 15px; color: var(--muted); margin: -4px 0 0; }
 
-/* Software list: plain lines */
-.page-research main h2#software + ul > li { margin: 0 0 8px; font-size: 16px; color: var(--ink); }
-.page-research main h2#software + ul > li strong:first-child { font-size: 16px; }
-.page-research main h2#software + ul > li a { color: var(--link); text-decoration: none; }
+/* Software: plain lines */
+.page-research main h2#software + ul > li { margin: 0 0 6px; }
+.page-research main h2#software + ul > li a { color: var(--link); }
 
 /* ---------- Teaching page ---------- */
-.page-teaching main h3 {
-  font-family: inherit; font-size: 13.5px; font-weight: 700; letter-spacing: .08em; text-transform: uppercase;
-  color: var(--muted); margin: 22px 0 4px;
-}
-.page-teaching main ul { list-style: none; padding: 0; margin: 0 0 10px; }
-.page-teaching main li {
-  padding: 9px 0; border-bottom: 1px solid #eef1f4;
-  color: var(--muted); font-size: 15px;
-}
+.page-teaching main h3 { font-size: 17px; margin: 20px 0 4px; }
+.page-teaching main ul { list-style: none; padding: 0; margin: 0 0 8px; }
+.page-teaching main li { padding: 5px 0; color: var(--muted); }
 .page-teaching main li p { margin: 0; }
-.page-teaching main li strong { color: var(--ink); font-size: 17px; font-weight: 600; }
-.page-teaching main li strong a { color: var(--link); }
+.page-teaching main li strong { font-weight: 400; color: var(--ink); }
 /* years: written as _since 2026_ */
-.page-teaching main li em { float: right; margin-left: 16px; font-style: normal; color: var(--muted); font-size: 15px; white-space: nowrap; }
+.page-teaching main li em { float: right; margin-left: 16px; font-style: normal; color: var(--muted); white-space: nowrap; }
 
-/* ---------- Events page: cards ---------- */
-.card { border: 1px solid #e1e6eb; border-radius: 12px; padding: 20px 24px 18px; margin: 0 0 22px; }
-.card > h2 { margin: 0 0 4px; font-size: 23px; }
-.card > h2 + p { color: var(--muted); font-size: 15.5px; margin-bottom: 10px; }
-.card > blockquote {
-  margin: 10px 0 12px; padding: 8px 14px;
-  border-left: 4px solid var(--accent); background: #fbf4f5; font-size: 16px;
-}
-.card > blockquote p { margin: 0; }
-.card > ul { list-style: none; padding: 0; margin: 10px 0 0; }
-.card > ul li { display: inline-block; margin: 6px 8px 0 0; }
-.card > ul li a {
-  display: inline-block; padding: 4px 14px; border: 1px solid #c9d1d9; border-radius: 999px;
-  font-size: 14.5px; font-weight: 600;
-}
-.card > ul li a:hover { text-decoration: none; border-color: var(--link); }
-.card > ul li p { margin: 0; }
-.lineup { display: grid; grid-template-columns: 1fr 1fr; gap: 0 30px; margin: 4px 0 6px; }
-.lineup ul { list-style: none; padding: 0; margin: 0; font-size: 15.5px; }
+/* ---------- Events page ---------- */
+.card { margin: 0 0 34px; }
+.card > h2 { margin: 0 0 6px; }
+.card > h2 + p { color: var(--muted); }
+.card > ul { margin: 6px 0 0; }
+.lineup { display: grid; grid-template-columns: 1fr 1fr; gap: 0 30px; margin: 8px 0 10px; }
+.lineup ul { list-style: none; padding: 0; margin: 0; }
 .lineup li { margin: 2px 0; padding-left: 64px; position: relative; }
 .lineup li > strong:first-child { position: absolute; left: 0; font-weight: 400; color: var(--muted); }
 
@@ -188,20 +127,16 @@ main li > blockquote p { margin: 0; }
     display: grid; grid-template-columns: 96px minmax(0, 1fr); column-gap: 16px; align-items: start;
   }
   .side .photo img { width: 96px; }
-  .side .name { font-size: 24px; margin: 0 0 10px; }
+  .side .name { font-size: 23px; margin: 0 0 10px; }
   .side .pos { margin: 0 0 10px; }
   .side .pos p { font-size: 14.5px; }
   .side .logo-ud { width: 112px; margin-left: 0; }
   .side .logo-pse { width: 40px; margin-left: 0; }
-  .side .links {
-    grid-column: 1 / -1; display: flex; flex-wrap: wrap; gap: 2px 18px;
-    margin-top: 8px; padding-top: 10px;
-  }
+  .side .links { grid-column: 1 / -1; display: flex; flex-wrap: wrap; gap: 2px 18px; margin-top: 8px; }
   .side .links a { margin: 0; }
   .tabs { gap: 22px; overflow-x: auto; }
-  .tabs a { font-size: 16px; white-space: nowrap; }
-  main h2 { font-size: 22px; }
+  .tabs a { white-space: nowrap; }
+  main h2 { font-size: 21px; }
   .lineup { grid-template-columns: minmax(0, 1fr); }
-  .card { padding: 16px 16px 14px; }
   .page-teaching main li em { float: none; display: block; margin: 0; }
 }

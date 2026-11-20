@@ -7,11 +7,11 @@ nav: events
 
 ## MPWZ-CEPR Text-as-Data Workshop
 
-Online, twice a year · co-organized with [Elliott Ash](https://elliottash.com/) and [Sascha O. Becker](http://www.sobecker.de/)
+Online, twice a year, co-organized with [Elliott Ash](https://elliottash.com/) and [Sascha O. Becker](http://www.sobecker.de/)
 
 Our conference is online-only, to bring the latest text-as-data research to anyone.
 
-> **Next: 13th edition, April 8th-9th, 2027.** The call for papers goes out in December 2026.
+**Next:** 13th edition, April 8th-9th, 2027. The call for papers goes out in December 2026.
 
 - [Sign up for the call and programs](https://docs.google.com/forms/d/e/1FAIpQLSej0XxApdIED_hMBotRBXTn9o7UkFWGHcGKUIDF9JTcKQW-Ag/viewform)
 - [Programs of all editions](/mpwz)
@@ -22,7 +22,7 @@ Our conference is online-only, to bring the latest text-as-data research to anyo
 
 ## PEPES: Paris Empirical Political Economics Seminar
 
-Paris, Thursdays · fall at the Paris School of Economics, spring at Sciences Po · organized with colleagues from both
+Paris, Thursdays. Fall at the Paris School of Economics, spring at Sciences Po, organized with colleagues from both.
 
 <div class="lineup" markdown="1">
 <div markdown="1">
@@ -56,6 +56,6 @@ Paris, Thursdays · fall at the Paris School of Economics, spring at Sciences Po
 
 ## Economics Research Seminar, UniDistance Suisse
 
-Brig, Mondays 12:00-13:00 during the semester · Faculty of Business and Economics
+Brig, Mondays 12:00-13:00 during the semester, Faculty of Business and Economics
 
 </div>
